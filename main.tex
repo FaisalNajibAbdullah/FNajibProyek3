@@ -1,0 +1,105 @@
+\documentclass[12pt]{ociamthesis}  % default square logo 
+%\documentclass[12pt,beltcrest]{ociamthesis} % use old belt crest logo
+%\documentclass[12pt,shieldcrest]{ociamthesis} % use older shield crest logo
+
+%load any additional packages
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{listings}
+\usepackage{longtable}
+
+%input macros (i.e. write your own macros file called mymacros.tex 
+%and uncomment the next line)
+%\include{mymacros}
+
+\title{\large Judul Laporan Tingkat Akhir \\[5ex]   %your thesis title,
+\small{Laporan ini dibuat untuk memenuhi persyaratan kelulusan matakuliah\\[-4ex]
+	Program Tugas Akhir}} %note \\[1ex] is a line break in the title
+
+\author{\large\textbf{Nama Mahasiswa}}             %your name
+\college{\large\textbf{X.XX.X.XXX}\\[5ex]}
+
+%\textit{In Partial Fulfilment of The Requirements for The Degree of Applied Bachelor of Informatics Engineering}}  %your college
+
+%\renewcommand{\submittedtext}{change the default text here if needed}
+\degree{\textbf{POLITEKNIK POS INDONESIA}}     %the degree
+%\degreedate{Bandung}         %the degree date
+\degreedate{\textbf{2019}}  
+
+%end the preamble and start the document
+\begin{document}
+
+%this baselineskip gives sufficient line spacing for an examiner to easily
+%markup the thesis with comments
+\baselineskip=18pt plus1pt
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{12}
+\setcounter{tocdepth}{12}
+
+\maketitle                  % create a title page from the preamble info
+\begin{romanpages}
+\addcontentsline{toc}{chapter}{COVER}
+\include{section/covereng}
+\include{section/dedication}   % include a dedication.tex file
+
+\addcontentsline{toc}{chapter}{LEMBAR PENGESAHAN LAPORAN}
+\include{section/pengesahan}     %include a pengesahan.tex file
+
+\addcontentsline{toc}{chapter}{LEMBAR PERNYATAAN}
+\include{section/pernyataan}    %include a pernyataan.tex file
+
+\addcontentsline{toc}{chapter}{HALAMAN PERNYATAAN}
+\include{section/halaman}      %include a halaman.tex file
+
+\addcontentsline{toc}{chapter}{ABSTRAK}
+\include{section/abstrak}  % include the abstract
+
+\addcontentsline{toc}{chapter}{\textit{ABSTRACT}}
+\include{section/abstract}
+
+% start roman page numbering
+\addcontentsline{toc}{chapter}{KATA PENGANTAR}
+\include{section/acknowlegements}   % include an acknowledgements.tex file
+
+\addcontentsline{toc}{chapter}{DAFTAR ISI}
+\tableofcontents % generate and include a table of contents
+
+\addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+\listoffigures
+
+\addcontentsline{toc}{chapter}{DAFTAR TABEL}
+\listoftables           % generate and include a list of figures
+
+\addcontentsline{toc}{chapter}{DAFTAR SIMBOL}
+\include{section/simbol}
+
+\addcontentsline{toc}{chapter}{DAFTAR SINGKATAN}
+\include{section/singkatan}
+
+\end{romanpages}            % end roman page numbering
+
+%now include the files of latex for each of the chapters etc
+\include{section/chapter1} 
+\include{section/chapter2} 
+\include{section/chapter3} 
+\include{section/chapter4} 
+\include{section/chapter5} 
+\include{section/chapter6} 
+%\include{section/chapter7}
+
+%next line adds the Bibliography to the contents page
+\addcontentsline{toc}{chapter}{Daftar Pustaka}
+%uncomment next line to change bibliography name to references
+%\renewcommand{\bibname}{References}
+\bibliography{references}        %use a bibtex bibliography file refs.bib
+\bibliographystyle{plain}  %use the plain bibliography style
+
+%now enable appendix numbering format and include any appendices
+\appendix
+\include{section/appendix1}
+\include{section/appendix2}
+
+\end{document}
+
