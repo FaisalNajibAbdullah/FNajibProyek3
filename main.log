@@ -1,0 +1,500 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  2 NOV 2019 08:44
+entering extended mode
+**"D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/main.tex"
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/main.tex"
+LaTeX2e <2018-12-01>
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\ociamthesis.cls"
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+("C:\Users\najib\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\najib\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@caption@flags=\count89
+\c@ContinuedFloat=\count90
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count91
+\multirow@dima=\skip44
+\bigstrutjot=\dimen112
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count92
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count93
+\lst@currlwidth=\dimen113
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen116
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box28
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip45
+\LTright=\skip46
+\LTpre=\skip47
+\LTpost=\skip48
+\LTchunksize=\count100
+\LTcapwidth=\dimen117
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks17
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+("C:\Users\najib\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen118
+\scratchbox=\box33
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen119
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks19
+) ("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count111
+<logo-poltekpos.png, id=1, 291.2481pt x 272.217pt>
+File: logo-poltekpos.png Graphic file (type png)
+<use logo-poltekpos.png>
+Package pdftex.def Info: logo-poltekpos.png  used on input line 41.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+ [1
+
+
+{C:/Users/najib/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/NAJIB/SE
+MESTER_5_NAJIB/PROYRK 3/lapoooo/logo-poltekpos.png>]
+\openout2 = `section/covereng.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/covereng.tex"
+<figures/logo-poltekpos.png, id=10, 291.2481pt x 272.217pt>
+File: figures/logo-poltekpos.png Graphic file (type png)
+<use figures/logo-poltekpos.png>
+Package pdftex.def Info: figures/logo-poltekpos.png  used on input line 9.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+
+Overfull \hbox (12.0pt too wide) in alignment at lines 16--23
+ [] 
+ []
+
+[1
+
+
+
+ <D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/figures/logo-poltekpos.png>])
+\openout2 = `section/dedication.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/dedication.tex" [2
+
+
+
+])
+\openout2 = `section/pengesahan.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/pengesahan.tex"
+File: figures/logo-poltekpos.png Graphic file (type png)
+<use figures/logo-poltekpos.png>
+Package pdftex.def Info: figures/logo-poltekpos.png  used on input line 6.
+(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (40.41298pt too wide) in paragraph at lines 18--36
+[][] 
+ []
+
+[3
+
+
+
+])
+\openout2 = `section/pernyataan.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/pernyataan.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+[4
+
+
+
+])
+\openout2 = `section/halaman.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/halaman.tex"
+Underfull \hbox (badness 1067) in paragraph at lines 6--12
+[]\OT1/cmr/m/n/12 Saya, nama Ma-hasiwa, NIM 1154008 meny-atakan den-gan sebenar
+-
+ []
+
+[5
+
+
+
+])
+\openout2 = `section/abstrak.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/abstrak.tex" [6
+
+
+
+])
+\openout2 = `section/abstract.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/abstract.tex" [7
+
+
+
+])
+\openout2 = `section/acknowlegements.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/acknowlegements.tex"
+[8
+
+
+
+])
+No file main.toc.
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+[9
+
+
+]
+No file main.lof.
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+[10
+
+]
+No file main.lot.
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+[11
+
+]
+\openout2 = `section/simbol.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/simbol.tex" [12
+
+
+])
+\openout2 = `section/singkatan.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/singkatan.tex" [13
+
+
+
+])
+\openout2 = `section/chapter1.aux'.
+
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter1.tex"
+BAB I.
+
+LaTeX Warning: Citation `pane2018qualitative' on page 1 undefined on input line
+ 3.
+
+
+LaTeX Warning: Citation `awangga2018k' on page 1 undefined on input line 3.
+
+
+LaTeX Warning: Citation `Awangga2017' on page 1 undefined on input line 3.
+
+
+LaTeX Warning: Citation `yulita2017quantization' on page 1 undefined on input l
+ine 3.
+
+
+Overfull \hbox (3.7324pt too wide) in paragraph at lines 6--9
+\OT1/cmr/m/n/12 Meningkatnya jum-lah pen-duduk menye-babkan bertam-bah pula kep
+emi-likan kendaraan
+ []
+
+
+Overfull \hbox (3.9324pt too wide) in paragraph at lines 6--9
+\OT1/cmr/m/n/12 ke-suli-tan dalam men-cari slot parkir yang kosong dan mau tida
+k mau pemi-lik kendaraan
+ []
+
+[1
+
+
+
+
+]
+! Misplaced alignment tab character &.
+<argument> Tujuan &
+                    Kontribusi
+l.18 \section{Tujuan & Kontribusi}
+                                  
+? 
+) [2]
+\openout2 = `section/chapter2.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter2.tex"
+BAB II.
+) [3
+
+
+
+]
+\openout2 = `section/chapter3.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter3.tex"
+BAB III.
+) [4
+
+
+
+]
+\openout2 = `section/chapter4.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter4.tex"
+BAB IV.
+) [5
+
+
+
+]
+\openout2 = `section/chapter5.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter5.tex"
+BAB V.
+) [6
+
+
+
+]
+\openout2 = `section/chapter6.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter6.tex"
+BAB VI.
+) [7
+
+
+
+]
+No file main.bbl.
+\openout2 = `section/appendix1.aux'.
+
+("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/appendix1.tex"
+LAMPIRAN A.
+) [8
+
+
+
+]
+\openout2 = `section/appendix2.aux'.
+
+ ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/appendix2.tex"
+LAMPIRAN B.
+) [9
+
+
+
+] (main.aux (section/covereng.aux) (section/dedication.aux)
+(section/pengesahan.aux) (section/pernyataan.aux) (section/halaman.aux)
+(section/abstrak.aux) (section/abstract.aux) (section/acknowlegements.aux)
+(section/simbol.aux) (section/singkatan.aux) (section/chapter1.aux)
+(section/chapter2.aux) (section/chapter3.aux) (section/chapter4.aux)
+(section/chapter5.aux) (section/chapter6.aux) (section/appendix1.aux)
+(section/appendix2.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4591 strings out of 492946
+ 71147 string characters out of 3136410
+ 130860 words of memory out of 3000000
+ 8352 multiletter control sequences out of 15000+200000
+ 15459 words of font info for 56 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,38p,973b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/User
+s/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/najib/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/najib/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (23 pages, 235543 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
