@@ -1,29 +1,68 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  2 NOV 2019 08:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  18 JAN 2020 15:17
 entering extended mode
-**"D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/main.tex"
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/main.tex"
+**./main.tex
+(main.tex
 LaTeX2e <2018-12-01>
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\ociamthesis.cls"
-Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
-("C:\Users\najib\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\najib\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
-)
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
+(wileySix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count93
+\savefootnum=\count94
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
+\c@subproblem=\count100
+\c@subproblem=\count101
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count102
+\c@appfootnote=\count103
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+) ("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
@@ -44,65 +83,27 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
-)
-("C:\Users\najib\MiKTeX 2.9\tex/latex/base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-))
-("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks15
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\caption.sty"
-Package: caption 2019/09/01 v3.3d Customizing captions (AR)
-
-("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\caption3.sty"
-Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen105
-\captionmargin@=\dimen106
-\captionwidth=\dimen107
-\caption@tempdima=\dimen108
-\caption@indent=\dimen109
-\caption@parindent=\dimen110
-\caption@hangindent=\dimen111
-)
-\c@caption@flags=\count89
-\c@ContinuedFloat=\count90
-)
-("C:\Users\najib\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
-Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
-\multirow@colwidth=\skip43
-\multirow@cntb=\count91
-\multirow@dima=\skip44
-\bigstrutjot=\dimen112
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
 )
 ("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.sty"
-\lst@mode=\count92
+\lst@mode=\count107
 \lst@gtempboxa=\box27
-\lst@token=\toks16
-\lst@length=\count93
-\lst@currlwidth=\dimen113
-\lst@column=\count94
-\lst@pos=\count95
-\lst@lostspace=\dimen114
-\lst@width=\dimen115
-\lst@newlines=\count96
-\lst@lineno=\count97
-\lst@maxwidth=\dimen116
+\lst@token=\toks15
+\lst@length=\count108
+\lst@currlwidth=\dimen116
+\lst@column=\count109
+\lst@pos=\count110
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count111
+\lst@lineno=\count112
+\lst@maxwidth=\dimen119
 
 ("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count98
-\lst@skipnumbers=\count99
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
 ("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.cfg"
@@ -110,52 +111,64 @@ File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\najib\MiKTeX 2.9\tex/latex/tools\longtable.sty"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip45
-\LTright=\skip46
-\LTpre=\skip47
-\LTpost=\skip48
-\LTchunksize=\count100
-\LTcapwidth=\dimen117
-\LT@head=\box29
-\LT@firsthead=\box30
-\LT@foot=\box31
-\LT@lastfoot=\box32
-\LT@cols=\count101
-\LT@rows=\count102
-\c@LT@tables=\count103
-\c@LT@chunks=\count104
-\LT@p@ftn=\toks17
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-No file main.aux.
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+) (w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box29
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 124.
+ (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
+
+ ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
 ("C:\Users\najib\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen118
-\scratchbox=\box33
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen119
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count115
+\scratchdimen=\dimen120
+\scratchbox=\box30
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen121
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks17
 ) ("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -203,298 +216,729 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: listings package is loaded.
-Package caption Info: longtable package is loaded.
+\c@lstlisting=\count121
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
+ [1{C:/Users/najib/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 150.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+ [3 <./kreatiflogo.png>]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
 
-("C:\Users\najib\MiKTeX 2.9\tex/latex/caption\ltcaption.sty"
-Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4] [5
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
+ (info/contributors.tex) [5] [6
+
+] (main.toc) [7] [8
+
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+ [] []  
+ []
+
+[9])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10] (main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [11
+
+] [12
+
+] (main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [13] [14
+
+] (main.lol)
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+ [15] [16
+
+]
+(info/foreword.tex) [17] [18
+
+] (info/preface.tex
+Overfull \hbox (3.73755pt too wide) in paragraph at lines 1--2
+\OT1/ptm/m/n/10 Buku ini dicip-takan bagi pengem-bang yang in-gin mengem-bangka
+n ke-mam-puan mem-
+ []
+
+) [19] [20
+
+] (info/acknowledgments.tex [21]) [22
+
+] (info/acronyms.tex)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
+
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
 )
-Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count111
-<logo-poltekpos.png, id=1, 291.2481pt x 272.217pt>
-File: logo-poltekpos.png Graphic file (type png)
-<use logo-poltekpos.png>
-Package pdftex.def Info: logo-poltekpos.png  used on input line 41.
-(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
- [1
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
+ [23] [24
+
+]
+(info/symbols.tex) [25] [26
+
+] (info/introduction.tex) [27] (chapters/1.tex
+[28
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-{C:/Users/najib/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/NAJIB/SE
-MESTER_5_NAJIB/PROYRK 3/lapoooo/logo-poltekpos.png>]
-\openout2 = `section/covereng.aux'.
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/covereng.tex"
-<figures/logo-poltekpos.png, id=10, 291.2481pt x 272.217pt>
-File: figures/logo-poltekpos.png Graphic file (type png)
-<use figures/logo-poltekpos.png>
-Package pdftex.def Info: figures/logo-poltekpos.png  used on input line 9.
-(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 16--23
- [] 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
-[1
+[2]
+Overfull \hbox (11.36691pt too wide) in paragraph at lines 30--31
+[]\OT1/ptm/m/n/10 Pada Mei 2016, In-tel menan-datan-gani per-jan-jian un-tuk me
+n-gakui-sisi It-seez, pengem-
+ []
 
 
-
- <D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo/figures/logo-poltekpos.png>])
-\openout2 = `section/dedication.aux'.
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/dedication.tex" [2
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
 
-])
-\openout2 = `section/pengesahan.aux'.
-
-
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/pengesahan.tex"
-File: figures/logo-poltekpos.png Graphic file (type png)
-<use figures/logo-poltekpos.png>
-Package pdftex.def Info: figures/logo-poltekpos.png  used on input line 6.
-(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
-
-("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+[4]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 63.
+ ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
-
-("C:\Users\najib\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (40.41298pt too wide) in paragraph at lines 18--36
-[][] 
- []
-
-[3
-
-
-
-])
-\openout2 = `section/pernyataan.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/pernyataan.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 17--21
-
- []
-
-[4
-
-
-
-])
-\openout2 = `section/halaman.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/halaman.tex"
-Underfull \hbox (badness 1067) in paragraph at lines 6--12
-[]\OT1/cmr/m/n/12 Saya, nama Ma-hasiwa, NIM 1154008 meny-atakan den-gan sebenar
--
- []
-
-[5
-
-
-
-])
-\openout2 = `section/abstrak.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/abstrak.tex" [6
-
-
-
-])
-\openout2 = `section/abstract.aux'.
-
-
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/abstract.tex" [7
-
-
-
-])
-\openout2 = `section/acknowlegements.aux'.
-
-
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/acknowlegements.tex"
-[8
-
-
-
-])
-No file main.toc.
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
-[9
-
-
-]
-No file main.lof.
-\tf@lof=\write4
-\openout4 = `main.lof'.
-
-[10
-
-]
-No file main.lot.
-\tf@lot=\write5
-\openout5 = `main.lot'.
-
-[11
-
-]
-\openout2 = `section/simbol.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/simbol.tex" [12
-
-
-])
-\openout2 = `section/singkatan.aux'.
-
-
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/singkatan.tex" [13
-
-
-
-])
-\openout2 = `section/chapter1.aux'.
-
-
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter1.tex"
-BAB I.
-
-LaTeX Warning: Citation `pane2018qualitative' on page 1 undefined on input line
- 3.
-
-
-LaTeX Warning: Citation `awangga2018k' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation `Awangga2017' on page 1 undefined on input line 3.
-
-
-LaTeX Warning: Citation `yulita2017quantization' on page 1 undefined on input l
-ine 3.
-
-
-Overfull \hbox (3.7324pt too wide) in paragraph at lines 6--9
-\OT1/cmr/m/n/12 Meningkatnya jum-lah pen-duduk menye-babkan bertam-bah pula kep
-emi-likan kendaraan
+Overfull \hbox (62.0pt too wide) in paragraph at lines 63--63
+ [] \OT1/pcr/m/n/10 https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.
+exe 
  []
 
 
-Overfull \hbox (3.9324pt too wide) in paragraph at lines 6--9
-\OT1/cmr/m/n/12 ke-suli-tan dalam men-cari slot parkir yang kosong dan mau tida
-k mau pemi-lik kendaraan
+Overfull \hbox (614.0pt too wide) in paragraph at lines 65--65
+ [] \OT1/pcr/m/n/10 http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipyhttp://sour
+ceforge.net/projects/scipy/files/scipy/0.11.0/scipy0.11.0win32-superpack-python
+2.7.exe/download 
  []
 
-[1
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+Overfull \hbox (26.0pt too wide) in paragraph at lines 79--79
+ [] \OT1/pcr/m/n/10 http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe 
+ []
 
 
-]
-! Misplaced alignment tab character &.
-<argument> Tujuan &
-                    Kontribusi
-l.18 \section{Tujuan & Kontribusi}
-                                  
+Overfull \hbox (260.0pt too wide) in paragraph at lines 80--80
+ []\OT1/pcr/m/n/10 https://www.visualstudio.com/products/free-developeroffers-v
+s.aspx?slcid=0x409&type=web or MinGW 
+ []
+
+
+Overfull \hbox (176.0pt too wide) in paragraph at lines 80--80
+ []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/Installer/mingw-
+get-setup.exe/download 
+ []
+
+
+Overfull \hbox (446.0pt too wide) in paragraph at lines 80--80
+ []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/OldFiles/mingw-g
+et-inst/mingw-getinst-20120426/mingw-get-inst-20120426.exe/download 
+ []
+
+
+Overfull \hbox (350.0pt too wide) in paragraph at lines 82--82
+ []\OT1/pcr/m/n/10 https://github.com/avin2/SensorKinect/blob/unstable/Bin/Sens
+orKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6]
+Overfull \hbox (302.0pt too wide) in paragraph at lines 82--82
+ [] \OT1/pcr/m/n/10 https://github.com/avin2/SensorKinect/blob/unstable/Bin/Sen
+sorKinect093-BinWin64-v5.1.2.1.msi?raw=true 
+ []
+
+
+Overfull \hbox (38.0pt too wide) in paragraph at lines 83--83
+ [] \OT1/pcr/m/n/10 <unzip_destination>. Subfolder, <unzip_destination>\opencv 
+
+ []
+
+
+Overfull \hbox (92.0pt too wide) in paragraph at lines 84--84
+ [] \OT1/pcr/m/n/10 mkdir <build_folder> Ubah direktori folder build: cd <build
+_folder> 
+ []
+
+
+Overfull \hbox (6.93724pt too wide) in paragraph at lines 85--86
+\OT1/ptm/m/n/10 mem-beri kita rilis den-gan bind-ing Python, dan se-cara op-sio
+nal, kedala-man dukun-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7]
+Overfull \hbox (44.0pt too wide) in paragraph at lines 102--102
+ []\OT1/pcr/m/n/10 cmake -D: CMAKE_BUILD_TYPE = RELEASE -D: WITH_OPENNI = ON -G
+[] 
+ []
+
+
+Overfull \hbox (1070.0pt too wide) in paragraph at lines 102--102
+ []\OT1/pcr/m/n/10 Jika OpenNI tidak diinstal, abaikan -D: WITH_OPENNI = ON. (D
+alam hal ini, kamera kedalaman tidak akan didukung.) Jika OpenNI dan SensorKine
+ct diinstal ke lokasi yang tidak cacat, ubah perintah untuk menyertakan -D: OPE
+NNI_LIB_DIR =[] 
+ []
+
+
+Overfull \hbox (26.0pt too wide) in paragraph at lines 102--102
+ []\OT1/pcr/m/n/10 <openni_install_destination>\Lib -D: OPENNI_INCLUDE_DIR =[] 
+
+ []
+
+
+Overfull \hbox (116.0pt too wide) in paragraph at lines 108--108
+ []\OT1/pcr/m/n/10 <build_folder> \ lib \ Release \ cv2.pyd (dari Visual Studio
+ build) atau[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--108
+ []\OT1/pcr/m/n/10 <build_folder> \ lib \ cv2.pyd (dari build MinGW) hingga[] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+Overfull \hbox (18.57663pt too wide) in paragraph at lines 129--130
+[]\OT1/ptm/m/n/10 Saya merekomen-dasikan Mac-Ports, terutama jika Anda in-gin m
+engkom-pi-lasi OpenCV
+ []
+
+
+Overfull \hbox (20.12679pt too wide) in paragraph at lines 145--146
+\OT1/ptm/m/n/10 men-go-toma-tiskan proses men-gun-duh, mengkom-pi-lasi, dan men
+-gin-stal berba-gai perangkat
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \hbox (32.0pt too wide) in paragraph at lines 168--168
+ []\OT1/pcr/m/n/10 $ sudo port instal opencv + python27 + openni_sensorkinect[]
+ 
+ []
+
+
+Overfull \hbox (0.8177pt too wide) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 gin-stal OpenCV den-gan bind-ing Python 2.7 dan dukun-gan un-tu
+k kam-era kedala-
+ []
+
+
+Overfull \hbox (4.55887pt too wide) in paragraph at lines 176--177
+\OT1/ptm/m/n/10 bahkan [][]\OT1/pcr/m/n/10 openni_sensorkinect []\OT1/ptm/m/n/1
+0 menen-tukan var-ian den-gan dukun-gan seluas
+ []
+
+
+Overfull \hbox (9.52644pt too wide) in paragraph at lines 176--177
+\OT1/ptm/m/n/10 var-ian yang terse-dia se-belum men-gin-stal, kita da-pat mema-
+sukkan per-in-tah berikut: 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Overfull \hbox (9.92743pt too wide) in paragraph at lines 195--196
+[]\OT1/ptm/m/n/10 Dengan be-ber-apa langkah tam-ba-han, kita da-pat men-gubah c
+ara Mac-Ports mengkom-
+ []
+
+
+Overfull \hbox (158.0pt too wide) in paragraph at lines 206--206
+ [] \OT1/pcr/m/n/10 rsync: //rsync.macports.org/release/ports/ default baris, t
+ambahkan baris ini: 
+ []
+
+
+Overfull \hbox (236.0pt too wide) in paragraph at lines 206--206
+ []\OT1/pcr/m/n/10 Misalnya, jika <local_repository> adalah / Users / Joe / Por
+tfiles, tambahkan baris berikut:[] 
+ []
+
+
+Overfull \hbox (110.0pt too wide) in paragraph at lines 214--214
+ []\OT1/pcr/m/n/10 /opt/local/var/macports/sources/rsync.macports.org/release/p
+orts/graphi[] 
+ []
+
+
+Overfull \hbox (14.0pt too wide) in paragraph at lines 216--216
+ [] \OT1/pcr/m/n/10 $ cp <unzip_destination> / graphics <local_repository> 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Overfull \hbox (500.0pt too wide) in paragraph at lines 219--219
+ []\OT1/pcr/m/n/10 https://github.com/Itseez/opencv/archive/3.0.0.zip, unzip ke
+ lokasi mana pun, dan baca <unzip_destination> /OpenCV-3.0.0/CMakeLists.txt. 
+ []
+
+
+Overfull \hbox (38.0pt too wide) in paragraph at lines 225--225
+ [] \OT1/pcr/m/n/10 $ sudo port instal opencv + python27 + openni_sensorkinect 
+
+ []
+
+
+Overfull \hbox (16.91617pt too wide) in paragraph at lines 226--228
+\OT1/ptm/m/n/10 file repos-i-tori de-fault karena uru-tan uru-tan-nya. /op-t/lo
+-cal/etc/-mac-port-s/-sources.conf. 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+
+! Package inputenc Error: Unicode character ​ (U+200B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
+                                                  
 ? 
-) [2]
-\openout2 = `section/chapter2.aux'.
 
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter2.tex"
-BAB II.
-) [3
+! Package inputenc Error: Unicode character ​ (U+200B)
+(inputenc)                not set up for use with LaTeX.
 
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
+                                                  
+? 
 
-
-]
-\openout2 = `section/chapter3.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter3.tex"
-BAB III.
-) [4
-
-
-
-]
-\openout2 = `section/chapter4.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter4.tex"
-BAB IV.
-) [5
+Overfull \hbox (32.0pt too wide) in paragraph at lines 239--239
+ []\OT1/pcr/m/n/10 $ ruby -e "$ (curl -fsSkLraw.github.com/mxcl/homebrew/go)" 
+ []
 
 
-
-]
-\openout2 = `section/chapter5.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter5.tex"
-BAB V.
-) [6
+Overfull \hbox (15.28648pt too wide) in paragraph at lines 240--240
+[]\OT1/ptm/m/n/10 Tidak seperti Mac-Ports, Home-brew tidak se-cara otoma-tis me
+n-em-patkan executable-
+ []
 
 
-
-]
-\openout2 = `section/chapter6.aux'.
-
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/chapter6.tex"
-BAB VI.
-) [7
+Overfull \hbox (68.0pt too wide) in paragraph at lines 243--243
+ []\OT1/pcr/m/n/10 eksport PATH = / usr / local / bin: / usr / local / sbin: $ 
+PATH[] 
+ []
 
 
+Overfull \hbox (2.91727pt too wide) in paragraph at lines 248--249
+\OT1/ptm/m/n/10 Perhatikan bahwa ex-e-cutable yang di-in-stal oleh Home-brew se
+karang di-u-ta-makan
+ []
 
-]
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 ...a beli dari akun Anda di \begin{verbatim}
+                                                   http://www.packtpub.com.\...
+
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 ...a beli dari akun Anda di \begin{verbatim}
+                                                   http://www.packtpub.com.\...
+
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 ...a beli dari akun Anda di \begin{verbatim}
+                                                   http://www.packtpub.com.\...
+
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 ...a beli dari akun Anda di \begin{verbatim}
+                                                   http://www.packtpub.com.\...
+
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 ...a beli dari akun Anda di \begin{verbatim}
+                                                   http://www.packtpub.com.\...
+
+? 
+
+Overfull \hbox (35.0pt too wide) in paragraph at lines 294--294
+ [] \OT1/pcr/m/n/10 https://github.com/mxcl/homebrew/wiki/Formula-Cookbook. 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 296--296
+ [] \OT1/pcr/m/n/10 https://github.com/Itseez/opencv/archive/3.0.0.zip 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17]
+Overfull \hbox (5.84738pt too wide) in paragraph at lines 310--311
+\OT1/ptm/m/n/10 stan-dar berisi paket OpenCV 2.4.9 tanpa dukun-gan un-tuk kam-e
+ra yang dalam.
+ []
+
+
+Overfull \hbox (1.62634pt too wide) in paragraph at lines 310--311
+\OT1/ptm/m/n/10 Pada saat penulisan ini, OpenCV 3 belum terse-dia melalui repos
+-i-tori Ubuntu,
+ []
+
+
+Overfull \hbox (125.0pt too wide) in paragraph at lines 321--321
+ []\OT1/pcr/m/n/10 > sudo apt-get install cmake git libgtk2.0-dev pkg-config li
+bavcodecdev[] 
+ []
+
+
+Overfull \hbox (479.0pt too wide) in paragraph at lines 321--321
+ []\OT1/pcr/m/n/10 > sudo apt-get install python-dev python-numpy libtbb2 libtb
+b-dev libjpegdev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev[] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18]
+Overfull \hbox (224.67911pt too wide) in paragraph at lines 325--331
+\OT1/ptm/m/n/10 kita perlu men-gun-duh kode sum-bernya [] []\OT1/pcr/m/n/10 htt
+ps: //github.com/Itseez/opencv/archive/3.0.0-beta.zip.  []\OT1/ptm/m/n/10 Ek-
+ []
+
+
+Overfull \hbox (149.0pt too wide) in paragraph at lines 337--337
+ []\OT1/pcr/m/n/10 > cmake -D CMAKE_BUILD_TYPE =Release -D CMAKE_INSTALL_PREFIX
+ =/usr/local ..[] 
+ []
+
+
+Overfull \hbox (12.74716pt too wide) in paragraph at lines 339--342
+[]\OT1/ptm/m/n/10 Setelah in-sta-lasi be-rakhir, Anda mungkin in-gin meli-hat c
+on-toh Python OpenCV
+ []
+
+
+Overfull \hbox (182.9199pt too wide) in paragraph at lines 339--342
+\OT1/ptm/m/n/10 di [][]\OT1/pcr/m/n/10 <opencv_folder>/opencv/samples/python []
+\OT1/ptm/m/n/10 dan [][]\OT1/pcr/m/n/10 <script_folder>/opencv/samples/python2.
+ 
+ []
+
+
+Overfull \hbox (7.48744pt too wide) in paragraph at lines 343--348
+\OT1/ptm/m/n/10 yang di-je-laskan se-belum-nya) ke-mu-ngk-i-nan akan bek-erja p
+ada dis-tribusi Linux
+ []
+
+
+Overfull \hbox (2.92755pt too wide) in paragraph at lines 349--350
+[]\OT1/ptm/m/n/10 Pada De-bian Linux dan tu-runan-nya, man-a-jer paket apt berf
+ungsi sama seperti
+ []
+
+
+Overfull \hbox (5.41687pt too wide) in paragraph at lines 351--352
+\OT1/ptm/m/n/10 Ports (seperti di-je-laskan se-belum-nya), meskipun paket yang 
+terse-dia mungkin
+ []
+
+
+Overfull \hbox (170.8676pt too wide) in paragraph at lines 353--354
+\OT1/ptm/m/n/10 FreeBSD. Ba-calah Buku Pe-gan-gan FreeBSD yang luar bi-asa di [
+][]\OT1/pcr/m/n/10 https://www.freebsd.org/doc/handbook/
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20]
+Overfull \hbox (149.46904pt too wide) in paragraph at lines 367--369
+\OT1/ptm/m/n/10 yang dise-but [][]\OT1/pcr/m/n/10 opencv_contrib[]\OT1/ptm/m/n/
+10 , yang terse-dia di [][]\OT1/pcr/m/n/10 https://github.com/Itseez/opencv_con
+trib.
+ []
+
+
+Overfull \hbox (1.48804pt too wide) in paragraph at lines 367--369
+\OT1/ptm/m/n/10 pem-ban-gu-nan OpenCV den-gan modul [][]\OT1/pcr/m/n/10 opencv_
+contrib []\OT1/ptm/m/n/10 se-ba-gai berikut: 
+ []
+
+
+Overfull \hbox (71.0pt too wide) in paragraph at lines 372--372
+ []\OT1/pcr/m/n/10 cmake -DOPENCV_EXTRA_MODULES_PATH = <opencv_contrib> / modul
+es[] 
+ []
+
+
+Overfull \hbox (95.0pt too wide) in paragraph at lines 381--381
+ []\OT1/pcr/m/n/10 cmake -D CMAKE_BUILD_TYPE = Lepaskan -DOPENCV_EXTRA_MODULES_
+PATH =[] 
+ []
+
+
+Overfull \hbox (113.0pt too wide) in paragraph at lines 381--381
+ []\OT1/pcr/m/n/10 <opencv_contrib> / modules -D CMAKE_INSTALL_PREFIX = / usr /
+ local ..[] 
+ []
+
+)
 No file main.bbl.
-\openout2 = `section/appendix1.aux'.
 
-("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/appendix1.tex"
-LAMPIRAN A.
-) [8
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21] [22
 
 ]
-\openout2 = `section/appendix2.aux'.
+No file main.ind.
 
- ("D:/NAJIB/SEMESTER_5_NAJIB/PROYRK 3/lapoooo\section/appendix2.tex"
-LAMPIRAN B.
-) [9
+! LaTeX Error: \begin{enumerate} on input line 278 ended by \end{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 \end{document}
+                    
+? 
+(main.aux) )
+(\end occurred inside a group at level 2)
 
-
-] (main.aux (section/covereng.aux) (section/dedication.aux)
-(section/pengesahan.aux) (section/pernyataan.aux) (section/halaman.aux)
-(section/abstrak.aux) (section/abstract.aux) (section/acknowlegements.aux)
-(section/simbol.aux) (section/singkatan.aux) (section/chapter1.aux)
-(section/chapter2.aux) (section/chapter3.aux) (section/chapter4.aux)
-(section/chapter5.aux) (section/chapter6.aux) (section/appendix1.aux)
-(section/appendix2.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+### semi simple group (level 2) entered at line 278 (\begingroup)
+### semi simple group (level 1) entered at line 237 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 4591 strings out of 492946
- 71147 string characters out of 3136410
- 130860 words of memory out of 3000000
- 8352 multiletter control sequences out of 15000+200000
- 15459 words of font info for 56 fonts, out of 3000000 for 9000
+ 3365 strings out of 492946
+ 47261 string characters out of 3136410
+ 302595 words of memory out of 3000000
+ 7161 multiletter control sequences out of 15000+200000
+ 61644 words of font info for 115 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,38p,973b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/User
-s/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/najib/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/najib/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (23 pages, 235543 bytes).
+ 42i,14n,47p,1610b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/najib/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/User
+s/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/najib/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/najib/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users
+/najib/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/najib/MiKTeX 2.
+9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+<C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (51 pages, 198857 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 219 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
