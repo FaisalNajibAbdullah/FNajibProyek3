@@ -12,6 +12,7 @@
 
 	Dalam versi sebelum OpenCV 2, fungsi dan struktur seperti C digunakan (masih bisa jadi) dan struktur utama adalah IplImage. Meskipun ada cara mudah untuk mengubah struktur IplImage menjadi objek cv :: Mat, sangat disarankan untuk menghindari struktur data yang sudah usang ini.
 
+\newpage
 \subsection{Sejarah Kecerdasan Opencv}
     Resmi diluncurkan pada tahun 1999, proyek OpenCV pada awalnya merupakan inisiatif Intel Research untuk memajukan aplikasi intensif CPU, bagian dari serangkaian proyek termasuk penelusuran sinar waktu nyata dan dinding layar 3D. Kontributor utama untuk proyek ini termasuk sejumlah pakar optimisasi di Intel Rusia, serta Tim Perpustakaan Kinerja Intel. Pada hari-hari awal OpenCV, tujuan proyek digambarkan sebagai:
 
@@ -28,6 +29,60 @@
 	Pada Agustus 2012, dukungan untuk OpenCV diambil alih oleh yayasan nirlaba OpenCV.org, yang mengelola pengembang dan situs pengguna.
 
 	Pada Mei 2016, Intel menandatangani perjanjian untuk mengakuisisi Itseez, pengembang OpenCV terkemuka.
+
+\newpage
+\section{NumPy}
+\subsection{Definisi NumPy}
+NumPy adalah perpustakaan untuk bahasa pemrograman Python, menambahkan dukungan untuk array dan matriks multi-dimensi yang besar, bersama dengan koleksi besar fungsi matematika tingkat tinggi untuk beroperasi pada array ini. Nenek moyang NumPy, Numeric, pada awalnya diciptakan oleh Jim Hugunin dengan kontribusi dari beberapa pengembang lainnya. Pada 2005, Travis Oliphant menciptakan NumPy dengan memasukkan fitur-fitur Numarray yang bersaing ke Numeric, dengan modifikasi ekstensif. NumPy adalah perangkat lunak sumber terbuka dan memiliki banyak kontributor.
+
+\subsection{Sejarah NumPy}
+Bahasa pemrograman Python pada awalnya tidak dirancang untuk komputasi numerik, tetapi menarik perhatian komunitas ilmiah dan teknik sejak awal, sehingga kelompok minat khusus yang disebut matrix-sig didirikan pada tahun 1995 dengan tujuan mendefinisikan paket komputasi array. Di antara anggotanya adalah desainer dan pengelola Python, Guido van Rossum, yang menerapkan ekstensi ke sintaksis Python (khususnya sintaks pengindeksan) untuk membuat komputasi array lebih mudah.
+
+Implementasi dari paket matriks diselesaikan oleh Jim Fulton, kemudian digeneralisasi oleh Jim Hugunin menjadi Numeric, juga beragam disebut ekstensi Numerical Python atau NumPy. Hugunin, seorang mahasiswa pascasarjana di Massachusetts Institute of Technology (MIT), bergabung dengan Corporation for National Research Initiatives (CNRI) untuk bekerja pada JPython pada tahun 1997 meninggalkan Paul Dubois dari Lawrence Livermore National Laboratory (LLNL) ke ambil alih sebagai pengelola. Kontributor awal lainnya termasuk David Ascher, Konrad Hinsen dan Travis Oliphant.
+
+Paket baru bernama Numarray ditulis sebagai pengganti Numeric yang lebih fleksibel. Seperti Numeric, sekarang sudah usang. Numarray memiliki operasi lebih cepat untuk array besar, tetapi lebih lambat daripada Numeric pada array kecil, jadi untuk sementara waktu kedua paket digunakan untuk kasus penggunaan yang berbeda. Versi terakhir Numeric v24.2 dirilis pada 11 November 2005 dan numarray v1.5.2 dirilis pada 24 Agustus 2006.
+
+Ada keinginan untuk memasukkan Numeric ke dalam pustaka standar Python, tetapi Guido van Rossum memutuskan bahwa kodenya tidak dapat dipertahankan dalam keadaannya saat itu.
+
+Pada awal 2005, pengembang NumPy Travis Oliphant ingin menyatukan komunitas sekitar satu paket array dan mem-porting fitur Numarray ke Numeric, merilis hasilnya sebagai NumPy 1.0 pada 2006. Proyek baru ini adalah bagian dari SciPy. Untuk menghindari menginstal paket SciPy besar hanya untuk mendapatkan objek array, paket baru ini dipisahkan dan disebut NumPy. Dukungan untuk Python 3 ditambahkan pada 2011 dengan NumPy versi 1.5.0.
+
+Pada tahun 2011, PyPy memulai pengembangan penerapan API NumPy untuk PyPy. Ini belum sepenuhnya kompatibel dengan NumPy.
+
+\subsection{Perkembangan NumPy}
+NumPy menargetkan implementasi referensi CPython dari Python, yang merupakan penerjemah bytecode yang tidak mengoptimalkan. Algoritma matematika yang ditulis untuk versi Python ini sering berjalan jauh lebih lambat daripada yang dikompilasi setara. NumPy mengatasi masalah kelambatan sebagian dengan menyediakan array multidimensi dan fungsi dan operator yang beroperasi secara efisien pada array, membutuhkan penulisan ulang beberapa kode, sebagian besar loop internal menggunakan NumPy.
+
+Menggunakan NumPy dalam Python memberikan fungsionalitas yang sebanding dengan MATLAB karena keduanya diinterpretasikan, dan keduanya memungkinkan pengguna untuk menulis program cepat selama sebagian besar operasi bekerja pada array atau matriks, bukan skalar. Sebagai perbandingan, MATLAB menawarkan sejumlah besar kotak alat tambahan, terutama Simulink, sedangkan NumPy secara intrinsik terintegrasi dengan Python, bahasa pemrograman yang lebih modern dan lengkap. Selain itu, paket Python komplementer tersedia; SciPy adalah pustaka yang menambahkan lebih banyak fungsi seperti MATLAB dan Matplotlib adalah paket merencanakan yang menyediakan fungsi merencanakan seperti MATLAB. Secara internal, baik MATLAB dan NumPy mengandalkan BLAS dan LAPACK untuk perhitungan aljabar linier yang efisien.
+
+Binding Python dari perpustakaan visi komputer yang banyak digunakan OpenCV memanfaatkan array NumPy untuk menyimpan dan beroperasi pada data. Karena gambar dengan banyak saluran hanya direpresentasikan sebagai array tiga dimensi, pengindeksan, pemotongan atau penutupan dengan array lainnya adalah cara yang sangat efisien untuk mengakses piksel tertentu dari suatu gambar. Array NumPy sebagai struktur data universal dalam OpenCV untuk gambar, poin fitur yang diekstraksi, filter kernel dan banyak lagi yang sangat menyederhanakan alur kerja pemrograman dan debugging.
+
+\textbf{Struktur data ndarray}
+\newline
+Fungsionalitas inti dari NumPy adalah ndarray, untuk susunan n-dimensional, struktur data. Array-array ini adalah pandangan yang melintas pada memori. Berbeda dengan struktur data daftar built-in Python (yang, meskipun namanya, adalah array dinamis), array ini diketik secara homogen: semua elemen dari array tunggal harus dari tipe yang sama.
+
+Array tersebut juga dapat dilihat ke buffer memori yang dialokasikan oleh ekstensi C atau C plus plus, Cython, dan Fortran ke juru bahasa CPython tanpa perlu menyalin data, memberikan tingkat kompatibilitas dengan perpustakaan numerik yang ada. Fungsi ini dieksploitasi oleh paket SciPy, yang membungkus sejumlah perpustakaan seperti itu (terutama BLAS dan LAPACK). NumPy memiliki dukungan bawaan untuk ndarrays yang dipetakan di memori.
+
+\textbf{Keterbatasan}
+\newline
+Memasukkan atau menambahkan entri ke sebuah array tidak sepele mungkin dengan daftar Python. Rutin np.pad untuk memperluas array sebenarnya membuat array baru dengan nilai bentuk dan padding yang diinginkan, menyalin array yang diberikan ke yang baru dan mengembalikannya. Operasi NumPy np.concatenate tidak benar-benar menghubungkan dua array tetapi mengembalikan yang baru, diisi dengan entri dari kedua array yang diberikan secara berurutan. Membentuk kembali dimensi array dengan np.reshape hanya mungkin selama jumlah elemen dalam array tidak berubah. Keadaan ini berasal dari fakta bahwa array NumPy harus dilihat pada buffer memori yang berdekatan. Paket pengganti yang disebut Blaze berupaya mengatasi batasan ini. 
+
+Algoritma yang tidak dapat diekspresikan sebagai operasi vektor biasanya akan berjalan lambat karena mereka harus diimplementasikan dalam Python murni, sedangkan vektorisasi dapat meningkatkan kompleksitas memori dari beberapa operasi dari konstan ke linier, karena array sementara harus dibuat yang sama besarnya dengan input. Kompilasi kode numerik Runtime telah diterapkan oleh beberapa kelompok untuk menghindari masalah ini; solusi open source yang beroperasi dengan NumPy termasuk scipy.weave, numexpr dan Numba. Cython dan Pythran adalah alternatif kompilasi statis untuk ini.
+
+\newpage
+\subsection{Contoh Code Numpy}
+Membuat Array menggunakan Numpy Python
+\lstinputlisting{src/MembuatArray.py}
+
+Operasi Sederhana Numpay
+\lstinputlisting{src/OperasiSederhana.py}
+
+Fungsi Universal Numpay
+\lstinputlisting{src/UniversalFunction.py}
+
+Aljabar Linear bagaimana memuat matriks menggunakan code numpay dengan mudah.
+\lstinputlisting{src/LinearAlgebra.py}
+
+Contoh penggabungan Numpay dengan Opencv.
+\lstinputlisting{src/Penggabungan.py}	
 
 \newpage
 \section{Instalasi OpenCV}
@@ -60,9 +115,29 @@ Salah satu distribusi tersebut adalah Anaconda Python (dapat diunduh di ). Setel
 
 Berikut adalah langkah-langkah untuk mengatur Python7, NumPy, SciPy, dan OpenCV:
 \begin{enumerate}
-	\item Unduh dan instal 64 bit Python 2.7.9 dari \begin{verbatim} https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe \end{verbatim}
+	\item Unduh dan instal 64 bit Python 3.7.1 dari \begin{verbatim} https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe \end{verbatim}
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.5]{figures/1,1.jpg}
+		\caption{Download Python}
+		\label{contoh}
+		\end{figure}
+\newpage
 	\item Unduh dan instal NumPy 1.6.2.
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.5]{figures/1,2.jpg}
+		\caption{Cari Numpy terbaru pada wibsite ini}
+		\label{contoh}
+		\end{figure}
+\newpage
 	\item Unduh dan pasang SciPy 11.0 dari \begin{verbatim} http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipyhttp://sourceforge.net/projects/scipy/files/scipy/0.11.0/scipy0.11.0win32-superpack-python2.7.exe/download \end{verbatim} (ini sama dengan NumPy dan ini adalah pemasang komunitas).
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.5]{figures/1,2.jpg}
+		\caption{Cari SciPy Terbaru pada website ini}
+		\label{contoh}
+		\end{figure}
 	\item Unduh ZIP self-extracting dari OpenCV 3.0.0 dari \begin{verbatim} https://github.com/Itseez/opencv \end{verbatim}. Jalankan ZIP ini, dan ketika diminta, masukkan folder tujuan. 
 	\item Salin \begin{verbatim} <unzip_destination>\opencv\build\python\2.7\cv2.pyd \end{verbatim} ke \begin{verbatim} C:\Python2.7\Lib\site-packages \end{verbatim} (dengan asumsi bahwa kami telah menginstal Python 2.7 ke lokasi default). Jika Anda menginstal Python 2.7 dengan Anaconda, gunakan folder instalasi Anaconda daripada instalasi Python default. Sekarang, instalasi Python baru dapat menemukan OpenCV.
 	\item Langkah terakhir diperlukan jika kita ingin skrip Python dijalankan menggunakan instalasi Python baru secara default. Edit variabel PATH sistem dan tambahkan C: /Python2.7 (dengan asumsi kami telah menginstal Python 2.7 ke lokasi default) atau folder instalasi Anaconda Anda. Hapus jalur Python sebelumnya, seperti C:/Python2.6. Logout dan login kembali (sebagai alternatif, reboot).
@@ -76,11 +151,73 @@ Windows tidak dilengkapi dengan kompiler atau CMake. Kita perlu menginstalnya. J
 Mari kita asumsikan bahwa kita telah menginstal Python 2.7, NumPy, dan SciPy 32-bit baik dari binari (seperti dijelaskan sebelumnya) atau dari sumber. Sekarang, kita dapat melanjutkan dengan menginstal kompiler dan CMake, menginstal opsional OpenNI dan SensorKinect, dan kemudian membangun OpenCV dari sumber:
 
 \begin{enumerate}
-	\item Unduh dan instal CMake 3.1.2 dari \begin{verbatim} http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe \end{verbatim} Saat menjalankan penginstal, pilih Tambahkan CMake ke PATH sistem untuk semua pengguna atau Tambahkan CMake ke PATH sistem untuk pengguna saat ini. Jangan khawatir tentang fakta bahwa CMake versi 64-bit tidak tersedia, CMake hanyalah alat konfigurasi dan tidak melakukan kompilasi apa pun. Sebaliknya, pada Windows, itu menciptakan file proyek yang dapat dibuka dengan Visual Studio.
-	\item Unduh dan instal Microsoft Visual Studio 2013 (edisi Desktop jika Anda bekerja pada Windows 7) dari \begin{verbatim}https://www.visualstudio.com/products/free-developeroffers-vs.aspx?slcid=0x409&type=web or MinGW \end{verbatim} Perhatikan bahwa Anda harus masuk dengan akun Microsoft Anda dan jika Anda tidak memilikinya, Anda dapat membuatnya di tempat. Instal perangkat lunak dan reboot setelah instalasi selesai. \textbf{Untuk MinGW, dapatkan penginstalnya dari} \begin{verbatim}http://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download \end{verbatim} dan \begin{verbatim}http://sourceforge.net/projects/mingw/files/OldFiles/mingw-get-inst/mingw-getinst-20120426/mingw-get-inst-20120426.exe/download \end{verbatim} Saat menjalankan penginstal, pastikan jalur tujuan tidak mengandung spasi dan bahwa kompiler C ++ opsional disertakan. Edit variabel PATH sistem dan tambahkan; \begin{verbatim}C:\MinGW\bin \end{verbatim} (dengan asumsi MinGW diinstal ke lokasi default). Mulai ulang sistem.
+	\item Unduh dan instal CMake 3.1.2 dari \begin{verbatim} http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.5]{figures/1,3.jpg}
+		\caption{Cari CMake Terbaru pada website ini kemudian install}
+		\label{contoh}
+		\end{figure}
+	Saat menjalankan penginstal, pilih Tambahkan CMake ke PATH sistem untuk semua pengguna atau Tambahkan CMake ke PATH sistem untuk pengguna saat ini. Jangan khawatir tentang fakta bahwa CMake versi 64-bit tidak tersedia, CMake hanyalah alat konfigurasi dan tidak melakukan kompilasi apa pun. Sebaliknya, pada Windows, itu menciptakan file proyek yang dapat dibuka dengan Visual Studio.
+\newpage
+	\item Unduh dan instal Microsoft Visual Studio 2013 (edisi Desktop jika Anda bekerja pada Windows 7) dari \begin{verbatim}https://www.visualstudio.com/products/free-developeroffers-vs.aspx?slcid=0x409&type=web or MinGW \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,4.jpg}
+		\caption{Cari VisualStudio Terbaru pada website ini kemudian install}
+		\label{contoh}
+		\end{figure}
+	Perhatikan bahwa Anda harus masuk dengan akun Microsoft Anda dan jika Anda tidak memilikinya, Anda dapat membuatnya di tempat. Instal perangkat lunak dan reboot setelah instalasi selesai. 
+\newpage
+	\textbf{Untuk MinGW, dapatkan penginstalnya dari} \begin{verbatim}http://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,5.jpg}
+		\caption{Download MinGW}
+		\label{contoh}
+		\end{figure}
+	dan \begin{verbatim}http://sourceforge.net/projects/mingw/files/OldFiles/mingw-get-inst/mingw-getinst-20120426/mingw-get-inst-20120426.exe/download \end{verbatim} 
+\newpage
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,6.jpg}
+		\caption{Download MinGW}
+		\label{contoh}
+		\end{figure}
+	Saat menjalankan penginstal, pastikan jalur tujuan tidak mengandung spasi dan bahwa kompiler C ++ opsional disertakan. Edit variabel PATH sistem dan tambahkan; \begin{verbatim}C:\MinGW\bin \end{verbatim} (dengan asumsi MinGW diinstal ke lokasi default). Mulai ulang sistem.
 	\item Secara opsional, unduh dan instal OpenNI 1.5.4.0 dari tautan yang disediakan di beranda GitHub di OpenNI di \begin{verbatim}https://github.com/OpenNI/OpenNI \end{verbatim}
-	\item Anda dapat mengunduh dan menginstal SensorKinect 0.93 dari \begin{verbatim}https://github.com/avin2/SensorKinect/blob/unstable/Bin/SensorKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) \end{verbatim} Atau, untuk Python 64-bit, unduh di \begin{verbatim} https://github.com/avin2/SensorKinect/blob/unstable/Bin/SensorKinect093-BinWin64-v5.1.2.1.msi?raw=true \end{verbatim}(64-bit). Perhatikan bahwa repositori ini tidak aktif selama lebih dari tiga tahun.
-	\item Unduh ZIP self-extracting dari OpenCV 3.0.0 dari \begin{verbatim}https://github.com/Itseez/opencv \end{verbatim} Jalankan ZIP yang mengekstraksi sendiri, dan ketika diminta, masukkan folder tujuan apa pun, yang akan kita sebut sebagai \begin{verbatim} <unzip_destination>. Subfolder, <unzip_destination>\opencv \end{verbatim} kemudian dibuat.
+\newpage
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,7.jpg}
+		\caption{Download OpenNI}
+		\label{contoh}
+		\end{figure}
+	\item Anda dapat mengunduh dan menginstal SensorKinect 0.93 dari \begin{verbatim}https://github.com/avin2/SensorKinect/blob/unstable/Bin/SensorKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,8.jpg}
+		\caption{Download SensorKinect}
+		\label{contoh}
+		\end{figure}
+\newpage
+	Atau, untuk Python 64-bit, unduh di \begin{verbatim} https://github.com/avin2/SensorKinect/blob/unstable/Bin/SensorKinect093-BinWin64-v5.1.2.1.msi?raw=true \end{verbatim}(64-bit). 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,8.jpg}
+		\caption{Download SensorKinect}
+		\label{contoh}
+		\end{figure}
+	Perhatikan bahwa repositori ini tidak aktif selama lebih dari tiga tahun.
+	\item Unduh ZIP self-extracting dari OpenCV 3.0.0 dari \begin{verbatim}https://github.com/Itseez/opencv \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,9.jpg}
+		\caption{Download self-extracting}
+		\label{contoh}
+		\end{figure}
+\newpage
+	Jalankan ZIP yang mengekstraksi sendiri, dan ketika diminta, masukkan folder tujuan apa pun, yang akan kita sebut sebagai \begin{verbatim} <unzip_destination>. Subfolder, <unzip_destination>\opencv \end{verbatim} kemudian dibuat.
 	\item Buka Command Prompt dan buat folder lain tempat build kita akan menggunakan ini perintah:\begin{verbatim} mkdir <build_folder> Ubah direktori folder build: cd <build_folder> \end{verbatim}
 	\item Sekarang, kami siap mengonfigurasi bangunan kami. Untuk memahami semua opsi, kita dapat membaca kode di \begin{verbatim}<unzip_destination>\opencv\CMakeLists.txt \end{verbatim} Namun, untuk tujuan buku ini, kita hanya perlu menggunakan opsi yang akan memberi kita rilis dengan binding Python, dan secara opsional, kedalaman dukungan kamera melalui OpenNI dan SensorKinect.
 	\item Buka CMake (cmake-gui) dan tentukan lokasi kode sumber OpenCV dan folder tempat Anda ingin membangun pustaka. Klik pada Konfigurasi. Pilih proyek yang akan dihasilkan. Dalam hal ini, pilih Visual Studio 12 (yang sesuai dengan Visual Studio 2013). Setelah CMake selesai mengkonfigurasi proyek, itu akan menampilkan daftar opsi build. Jika Anda melihat latar belakang merah, itu berarti bahwa proyek Anda mungkin perlu dikonfigurasi ulang: CMake mungkin melaporkan bahwa ia gagal menemukan beberapa dependensi. Banyak dependensi OpenCV adalah opsional, jadi jangan terlalu khawatir. \textbf{Catatan}  Jika build gagal diselesaikan atau Anda mengalami masalah di kemudian hari, coba instal dependensi yang hilang (sering kali tersedia sebagai binari prebuilt), dan kemudian bangun kembali OpenCV dari langkah ini. Anda memiliki opsi untuk memilih / membatalkan pilihan opsi bangunan (sesuai dengan perpustakaan yang telah Anda instal pada mesin Anda) dan klik Konfigurasi lagi, sampai Anda mendapatkan latar belakang yang jelas (putih).
@@ -120,7 +257,14 @@ Beberapa versi Mac digunakan dengan versi Python 2.7 yang sudah diinstal sebelum
 
 \textbf{Catatan}
 
-Anda dapat memperoleh penginstal ini di \begin{verbatim} https://www.python.org/downloads/release/python-279/ \end{verbatim} (lihat PPC Mac OS X 32-bit atau tautan Intel® Mac OS X 64-bit). Menginstal Python dari file .dmg yang diunduh hanya akan menimpa instalasi sistem Python Anda saat ini.
+Anda dapat memperoleh penginstal ini di \begin{verbatim} https://www.python.org/downloads/release/python-371/ \end{verbatim} 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,10.jpg}
+		\caption{Download Python}
+		\label{contoh}
+		\end{figure}
+(lihat PPC Mac OS X 32-bit atau tautan Intel® Mac OS X 64-bit). Menginstal Python dari file .dmg yang diunduh hanya akan menimpa instalasi sistem Python Anda saat ini.
 
 Untuk Mac, ada beberapa pendekatan yang mungkin untuk mendapatkan standar Python 2.7, NumPy, SciPy, dan OpenCV. Semua pendekatan pada akhirnya membutuhkan OpenCV untuk dikompilasi dari sumber menggunakan Alat Pengembang Xcode. Namun, tergantung pada pendekatannya, tugas ini otomatis bagi kami dalam berbagai cara oleh alat pihak ketiga. Kami akan melihat pendekatan semacam ini menggunakan MacPorts atau Homebrew. Alat-alat ini berpotensi melakukan segala yang dapat dilakukan CMake, ditambah lagi membantu kami mengatasi dependensi dan memisahkan pustaka pengembangan kami dari pustaka sistem.
 \newpage
@@ -145,9 +289,15 @@ Menggunakan MacPorts dengan paket yang sudah jadi
 Kita bisa menggunakan manajer paket MacPorts untuk membantu kita mengatur Python 2.7, NumPy, dan OpenCV. MacPorts menyediakan perintah terminal yang mengotomatiskan proses mengunduh, mengkompilasi, dan menginstal berbagai perangkat lunak sumber terbuka (OSS). MacPorts juga menginstal dependensi sesuai kebutuhan. Untuk setiap perangkat lunak, dependensi dan resep bangunan didefinisikan dalam file konfigurasi yang disebut Portfile. Repositori MacPorts adalah kumpulan dari Portfiles.
 
 Mulai dari sistem di mana Xcode dan alat-alat command-line-nya sudah diatur, langkah-langkah berikut akan memberi kita instalasi OpenCV melalui MacPorts:
-
+\newpage
 \begin{enumerate}
 	\item Unduh dan instal MacPorts dari \begin{verbatim} http://www.macports.org/install.php. \end{verbatim}
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,11.jpg}
+		\caption{Download MacPorts}
+		\label{contoh}
+		\end{figure}
 	\item Jika Anda ingin dukungan untuk kamera kedalaman Kinect, Anda perlu memberi tahu MacPorts tempat untuk mengunduh Portfile khusus yang telah saya tulis. Untuk melakukannya, edit
 
 	/opt/local/etc/macports/sources.conf (dengan asumsi bahwa MacPorts diinstal ke lokasi default). Tepat di atas garis,
@@ -212,11 +362,26 @@ gunakan Portfile khusus yang kita tulis:
 	$ cp
 	/opt/local/var/macports/sources/rsync.macports.org/release/ports/graphi
 	cs / opencv <local_repository> / grafis \end{verbatim}
-	Sebagai alternatif, untuk contoh yang menyertakan dukungan Kinect, kita dapat mengunduh repositori online saya dari http://nummist.com/opencv/ports.tar.gz, unzip, dan salin seluruh folder grafiknya ke \begin{verbatim} <local_repository> \end{verbatim}:
+\newpage
+	Sebagai alternatif, untuk contoh yang menyertakan dukungan Kinect, kita dapat mengunduh repositori online saya dari \verb|http://nummist.com/opencv/ports.tar.gz|
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.3]{figures/1,12.jpg}
+		\caption{Download Kinect}
+		\label{contoh}
+		\end{figure}
+	, unzip, dan salin seluruh folder grafiknya ke \begin{verbatim} <local_repository> \end{verbatim}:
 	\begin{verbatim} $ cp <unzip_destination> / graphics <local_repository> \end{verbatim}
 	\item Edit \begin{verbatim} <local_repository>/graphics/opencv/Portfile. \end{verbatim} Perhatikan bahwa file ini menentukan flag konfigurasi, dependensi, dan varian CMake. Untuk detail tentang pengeditan Portfile, buka \begin{verbatim} http://guide.macports.org/#development. \end{verbatim}
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,13.jpg}
+		\caption{Tutorial pada website tersebut}
+		\label{contoh}
+		\end{figure}
+\newpage
 	Untuk melihat flag konfigurasi CMake mana yang relevan dengan OpenCV, kita perlu melihat kode sumbernya. Unduh arsip kode sumber dari
-	\begin{verbatim}https://github.com/Itseez/opencv/archive/3.0.0.zip, unzip ke lokasi mana pun, dan baca <unzip_destination> /OpenCV-3.0.0/CMakeLists.txt.\end{verbatim}
+	\verb|https://github.com/Itseez/opencv/archive/3.0.0.zip| unzip ke lokasi mana pun, dan baca \verb|<unzip_destination> /OpenCV-3.0.0/CMakeLists.txt.|
 	Setelah melakukan pengeditan ke Portfile, simpanlah.
 	\item Sekarang, kita perlu membuat file indeks di repositori lokal kita sehingga MacPorts dapat menemukan Portfile baru:
 	\begin{verbatim} $ cd <local_repository>
@@ -279,13 +444,20 @@ Mulai dari sistem di mana Xcode dan alat-alat command-line-nya sudah diatur, lan
 
 \newpage
 \textbf{Tip}
-
+\newline
 \textbf{Mengunduh kode contoh}
+\newline
 
 Anda dapat mengunduh file kode contoh untuk semua buku Penerbitan Packt yang telah Anda beli dari akun Anda di \begin{verbatim} http://www.packtpub.com.\end{verbatim} Jika Anda membeli buku ini di tempat lain, Anda dapat mengunjungi \begin{verbatim} http://www.packtpub.com/support\end{verbatim} dan mendaftar agar file-file tersebut diemail langsung kepada Anda.
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,14.jpg}
+		\caption{Website packtpub}
+		\label{contoh}
+		\end{figure}
 
 \textbf{Menggunakan Homebrew dengan paket kustom Anda sendiri}
-
+\newline
 Homebrew memudahkan untuk mengedit definisi paket yang ada:
 \begin{verbatim} 
 $ brew edit opencv
@@ -350,8 +522,14 @@ Pada Debian Linux dan turunannya, manajer paket apt berfungsi sama seperti di Ub
 
 Di Gentoo Linux dan turunannya, manajer paket Portage mirip dengan MacPorts (seperti dijelaskan sebelumnya), meskipun paket yang tersedia mungkin berbeda.
 
-Pada turunan FreeBSD, proses instalasi sekali lagi mirip dengan MacPorts; sebenarnya, MacPorts berasal dari sistem instalasi port yang diadopsi pada FreeBSD. Bacalah Buku Pegangan FreeBSD yang luar biasa di \verb|https://www.freebsd.org/doc/handbook/| untuk ikhtisar proses instalasi perangkat lunak.
-
+Pada turunan FreeBSD, proses instalasi sekali lagi mirip dengan MacPorts; sebenarnya, MacPorts berasal dari sistem instalasi port yang diadopsi pada FreeBSD. Bacalah Buku Pegangan FreeBSD yang luar biasa di \newline \verb|https://www.freebsd.org/doc/handbook/| untuk ikhtisar proses instalasi perangkat lunak.
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,15.jpg}
+		\caption{FreeBSD}
+		\label{contoh}
+		\end{figure}
+\newpage
 Pada sistem mirip Unix lainnya, manajer paket dan paket yang tersedia mungkin berbeda. Konsultasikan dokumentasi manajer paket Anda dan cari paket dengan opencv di namanya. Ingatlah bahwa OpenCV dan binding Python-nya dapat dipecah menjadi beberapa
 paket.
 
@@ -379,3 +557,37 @@ cmake -D CMAKE_BUILD_TYPE = Lepaskan -DOPENCV_EXTRA_MODULES_PATH =
 <opencv_contrib> / modules -D CMAKE_INSTALL_PREFIX = / usr / local ..
 make
 \end{verbatim}
+
+\newpage
+\subsection {PyCharm}
+Pycharm merupakan tools untuk menjalankan program python didalamnya sudah terdapat berbagai macam library dari python itu sendiri, kita hanya perlu mencari library yang kita butuhkan kemudian klik install, maka kita tidak perlu melakukan hal hal yang telah di contohkan untuk menginstall opencv pada windows atau yang lainnya. Yang perlu kita lakukan yang pertama kalinya adalah kita mendownload aplikasi PyCharm. \newline \verb|https://www.jetbrains.com/pycharm/download/#section=windows| \newline 
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,16.jpg}
+		\caption{Pycharm}
+		\label{contoh}
+		\end{figure}
+\newpage
+Kemudian lakukan installasi, setelah istallasi selesai selanjutnya kita buka aplikasi kemudian pilih file kemudian settings.
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,17.png}
+		\caption{Pycharm Settings}
+		\label{contoh}
+		\end{figure}
+\newline
+Kemudian pilih project interpreter, lalu klik tambah pada pojok kanan, maka tampilannya akan seperti ini:
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,18.jpg}
+		\caption{Install library}
+		\label{contoh}
+		\end{figure}
+\newpage
+Setelah masuk pada tampilan ini kita cari library apa yang kita butuhkan untuk menjalankan project yang akan kita bangun, karna bahasan kita pada saat ini yaitu OPENCV maka yang kita cari adalah OpenCV, Setelah menemukannya kita langsung saja klik install kira kira membutuhkan waktu lumayan lama, jika internet kita stabil kurang lebih 20-30 menit waktu yang di butuhkan untuk menginstall opencv ini.
+		\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.4]{figures/1,19.jpg}
+		\caption{Install OpenCV}
+		\label{contoh}
+		\end{figure}

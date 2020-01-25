@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  18 JAN 2020 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  25 JAN 2020 16:44
 entering extended mode
 **./main.tex
 (main.tex
@@ -136,7 +136,122 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
- (main.aux)
+ (main.aux
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -261,28 +376,46 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10] (main.lof)
+[10] (main.lof [11
+
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [11
 
-] [12
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
 
-] (main.lot)
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [13] [14
+ [13
 
-] (main.lol)
+] [14
+
+] (main.lol
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15])
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
- [15] [16
 
-]
-(info/foreword.tex) [17] [18
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16] (info/foreword.tex) [17
+
+] [18
 
 ] (info/preface.tex
 Overfull \hbox (3.73755pt too wide) in paragraph at lines 1--2
@@ -332,7 +465,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2]
-Overfull \hbox (11.36691pt too wide) in paragraph at lines 30--31
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]
+Overfull \hbox (11.36691pt too wide) in paragraph at lines 31--32
 []\OT1/ptm/m/n/10 Pada Mei 2016, In-tel menan-datan-gani per-jan-jian un-tuk me
 n-gakui-sisi It-seez, pengem-
  []
@@ -345,32 +486,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[3]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 40.
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
 [4]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 63.
- ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Overfull \hbox (62.0pt too wide) in paragraph at lines 63--63
- [] \OT1/pcr/m/n/10 https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.
-exe 
+Overfull \hbox (11.75768pt too wide) in paragraph at lines 36--37
+\OT1/ptm/m/n/10 NumPy adalah per-pus-takaan un-tuk ba-hasa pem-ro-gra-man Pytho
+n, menam-bahkan dukun-
  []
 
 
-Overfull \hbox (614.0pt too wide) in paragraph at lines 65--65
- [] \OT1/pcr/m/n/10 http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipyhttp://sour
-ceforge.net/projects/scipy/files/scipy/0.11.0/scipy0.11.0win32-superpack-python
-2.7.exe/download 
+Overfull \hbox (0.54698pt too wide) in paragraph at lines 36--37
+\OT1/ptm/m/n/10 fikasi ek-sten-sif. NumPy adalah perangkat lu-nak sum-ber ter-b
+uka dan memi-liki banyak
  []
 
 
@@ -382,32 +507,83 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-Overfull \hbox (26.0pt too wide) in paragraph at lines 79--79
- [] \OT1/pcr/m/n/10 http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
+[6]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
-Overfull \hbox (260.0pt too wide) in paragraph at lines 80--80
- []\OT1/pcr/m/n/10 https://www.visualstudio.com/products/free-developeroffers-v
-s.aspx?slcid=0x409&type=web or MinGW 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
+[7] (src/MembuatArray.py) (src/OperasiSederhana.py
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+) (src/UniversalFunction.py)
+(src/LinearAlgebra.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
-Overfull \hbox (176.0pt too wide) in paragraph at lines 80--80
- []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/Installer/mingw-
-get-setup.exe/download 
+ [8])
+(src/Penggabungan.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
+[9]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
-Overfull \hbox (446.0pt too wide) in paragraph at lines 80--80
- []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/OldFiles/mingw-g
-et-inst/mingw-getinst-20120426/mingw-get-inst-20120426.exe/download 
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
+[10]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 118.
 
-Overfull \hbox (350.0pt too wide) in paragraph at lines 82--82
- []\OT1/pcr/m/n/10 https://github.com/avin2/SensorKinect/blob/unstable/Bin/Sens
-orKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) 
+ ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (62.0pt too wide) in paragraph at lines 118--118
+ [] \OT1/pcr/m/n/10 https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.
+exe 
+ []
+
+<figures/1,1.jpg, id=139, 610.53094pt x 428.35031pt>
+File: figures/1,1.jpg Graphic file (type jpg)
+<use figures/1,1.jpg>
+Package pdftex.def Info: figures/1,1.jpg  used on input line 121.
+(pdftex.def)             Requested size: 305.26472pt x 214.17462pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11 <./figures/1,1.jpg>]
+<figures/1,2.jpg, id=144, 1016.29688pt x 462.22687pt>
+File: figures/1,2.jpg Graphic file (type jpg)
+<use figures/1,2.jpg>
+Package pdftex.def Info: figures/1,2.jpg  used on input line 129.
+(pdftex.def)             Requested size: 508.1472pt x 231.11287pt.
+
+Overfull \hbox (172.1472pt too wide) in paragraph at lines 129--130
+ [][] 
  []
 
 
@@ -418,26 +594,176 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6]
-Overfull \hbox (302.0pt too wide) in paragraph at lines 82--82
+[12 <./figures/1,2.jpg>]
+Overfull \hbox (614.0pt too wide) in paragraph at lines 134--134
+ [] \OT1/pcr/m/n/10 http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipyhttp://sour
+ceforge.net/projects/scipy/files/scipy/0.11.0/scipy0.11.0win32-superpack-python
+2.7.exe/download 
+ []
+
+File: figures/1,2.jpg Graphic file (type jpg)
+<use figures/1,2.jpg>
+Package pdftex.def Info: figures/1,2.jpg  used on input line 137.
+(pdftex.def)             Requested size: 508.1472pt x 231.11287pt.
+
+Overfull \hbox (172.1472pt too wide) in paragraph at lines 137--138
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+Overfull \hbox (26.0pt too wide) in paragraph at lines 154--154
+ [] \OT1/pcr/m/n/10 http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe 
+ []
+
+<figures/1,3.jpg, id=155, 581.92406pt x 508.14844pt>
+File: figures/1,3.jpg Graphic file (type jpg)
+<use figures/1,3.jpg>
+Package pdftex.def Info: figures/1,3.jpg  used on input line 157.
+(pdftex.def)             Requested size: 290.96132pt x 254.0736pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15 <./figures/1,3.jpg>]
+Overfull \hbox (260.0pt too wide) in paragraph at lines 163--163
+ []\OT1/pcr/m/n/10 https://www.visualstudio.com/products/free-developeroffers-v
+s.aspx?slcid=0x409&type=web or MinGW 
+ []
+
+<figures/1,4.jpg, id=159, 1028.34187pt x 502.87875pt>
+File: figures/1,4.jpg Graphic file (type jpg)
+<use figures/1,4.jpg>
+Package pdftex.def Info: figures/1,4.jpg  used on input line 166.
+(pdftex.def)             Requested size: 308.50494pt x 150.86478pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16 <./figures/1,4.jpg>]
+Overfull \hbox (176.0pt too wide) in paragraph at lines 172--172
+ []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/Installer/mingw-
+get-setup.exe/download 
+ []
+
+<figures/1,5.jpg, id=163, 1028.34187pt x 469.755pt>
+File: figures/1,5.jpg Graphic file (type jpg)
+<use figures/1,5.jpg>
+Package pdftex.def Info: figures/1,5.jpg  used on input line 175.
+(pdftex.def)             Requested size: 308.50494pt x 140.92758pt.
+
+Overfull \hbox (446.0pt too wide) in paragraph at lines 179--179
+ []\OT1/pcr/m/n/10 http://sourceforge.net/projects/mingw/files/OldFiles/mingw-g
+et-inst/mingw-getinst-20120426/mingw-get-inst-20120426.exe/download 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17 <./figures/1,5.jpg>]
+<figures/1,6.jpg, id=167, 1028.34187pt x 445.665pt>
+File: figures/1,6.jpg Graphic file (type jpg)
+<use figures/1,6.jpg>
+Package pdftex.def Info: figures/1,6.jpg  used on input line 183.
+(pdftex.def)             Requested size: 308.50494pt x 133.70053pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <./figures/1,6.jpg>]
+<figures/1,7.jpg, id=171, 1028.34187pt x 491.58656pt>
+File: figures/1,7.jpg Graphic file (type jpg)
+<use figures/1,7.jpg>
+Package pdftex.def Info: figures/1,7.jpg  used on input line 192.
+(pdftex.def)             Requested size: 308.50494pt x 147.4771pt.
+
+Overfull \hbox (350.0pt too wide) in paragraph at lines 196--196
+ []\OT1/pcr/m/n/10 https://github.com/avin2/SensorKinect/blob/unstable/Bin/Sens
+orKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) 
+ []
+
+<figures/1,8.jpg, id=172, 1028.34187pt x 339.51843pt>
+File: figures/1,8.jpg Graphic file (type jpg)
+<use figures/1,8.jpg>
+Package pdftex.def Info: figures/1,8.jpg  used on input line 199.
+(pdftex.def)             Requested size: 308.50494pt x 101.85631pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19 <./figures/1,7.jpg> <./figures/1,8.jpg>]
+Overfull \hbox (302.0pt too wide) in paragraph at lines 204--204
  [] \OT1/pcr/m/n/10 https://github.com/avin2/SensorKinect/blob/unstable/Bin/Sen
 sorKinect093-BinWin64-v5.1.2.1.msi?raw=true 
  []
 
+File: figures/1,8.jpg Graphic file (type jpg)
+<use figures/1,8.jpg>
+Package pdftex.def Info: figures/1,8.jpg  used on input line 207.
+(pdftex.def)             Requested size: 308.50494pt x 101.85631pt.
+<figures/1,9.jpg, id=176, 1028.34187pt x 489.32813pt>
+File: figures/1,9.jpg Graphic file (type jpg)
+<use figures/1,9.jpg>
+Package pdftex.def Info: figures/1,9.jpg  used on input line 215.
+(pdftex.def)             Requested size: 308.50494pt x 146.79956pt.
 
-Overfull \hbox (38.0pt too wide) in paragraph at lines 83--83
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20 <./figures/1,9.jpg>]
+Overfull \hbox (38.0pt too wide) in paragraph at lines 220--220
  [] \OT1/pcr/m/n/10 <unzip_destination>. Subfolder, <unzip_destination>\opencv 
 
  []
 
 
-Overfull \hbox (92.0pt too wide) in paragraph at lines 84--84
+Overfull \hbox (92.0pt too wide) in paragraph at lines 221--221
  [] \OT1/pcr/m/n/10 mkdir <build_folder> Ubah direktori folder build: cd <build
 _folder> 
  []
 
 
-Overfull \hbox (6.93724pt too wide) in paragraph at lines 85--86
+Overfull \hbox (6.93724pt too wide) in paragraph at lines 222--223
 \OT1/ptm/m/n/10 mem-beri kita rilis den-gan bind-ing Python, dan se-cara op-sio
 nal, kedala-man dukun-
  []
@@ -450,14 +776,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[7]
-Overfull \hbox (44.0pt too wide) in paragraph at lines 102--102
+[21]
+Overfull \hbox (44.0pt too wide) in paragraph at lines 239--239
  []\OT1/pcr/m/n/10 cmake -D: CMAKE_BUILD_TYPE = RELEASE -D: WITH_OPENNI = ON -G
 [] 
  []
 
 
-Overfull \hbox (1070.0pt too wide) in paragraph at lines 102--102
+Overfull \hbox (1070.0pt too wide) in paragraph at lines 239--239
  []\OT1/pcr/m/n/10 Jika OpenNI tidak diinstal, abaikan -D: WITH_OPENNI = ON. (D
 alam hal ini, kamera kedalaman tidak akan didukung.) Jika OpenNI dan SensorKine
 ct diinstal ke lokasi yang tidak cacat, ubah perintah untuk menyertakan -D: OPE
@@ -465,19 +791,19 @@ NNI_LIB_DIR =[]
  []
 
 
-Overfull \hbox (26.0pt too wide) in paragraph at lines 102--102
+Overfull \hbox (26.0pt too wide) in paragraph at lines 239--239
  []\OT1/pcr/m/n/10 <openni_install_destination>\Lib -D: OPENNI_INCLUDE_DIR =[] 
 
  []
 
 
-Overfull \hbox (116.0pt too wide) in paragraph at lines 108--108
+Overfull \hbox (116.0pt too wide) in paragraph at lines 245--245
  []\OT1/pcr/m/n/10 <build_folder> \ lib \ Release \ cv2.pyd (dari Visual Studio
  build) atau[] 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 108--108
+Overfull \hbox (20.0pt too wide) in paragraph at lines 245--245
  []\OT1/pcr/m/n/10 <build_folder> \ lib \ cv2.pyd (dari build MinGW) hingga[] 
  []
 
@@ -489,17 +815,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[8]
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[9]
+[22]
+<figures/1,10.jpg, id=187, 1026.08344pt x 493.0922pt>
+File: figures/1,10.jpg Graphic file (type jpg)
+<use figures/1,10.jpg>
+Package pdftex.def Info: figures/1,10.jpg  used on input line 263.
+(pdftex.def)             Requested size: 307.82741pt x 147.92879pt.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 267.
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -508,14 +831,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10]
-Overfull \hbox (18.57663pt too wide) in paragraph at lines 129--130
+[23 <./figures/1,10.jpg>]
+Overfull \hbox (18.57663pt too wide) in paragraph at lines 273--274
 []\OT1/ptm/m/n/10 Saya merekomen-dasikan Mac-Ports, terutama jika Anda in-gin m
 engkom-pi-lasi OpenCV
  []
 
 
-Overfull \hbox (20.12679pt too wide) in paragraph at lines 145--146
+Overfull \hbox (20.12679pt too wide) in paragraph at lines 289--290
 \OT1/ptm/m/n/10 men-go-toma-tiskan proses men-gun-duh, mengkom-pi-lasi, dan men
 -gin-stal berba-gai perangkat
  []
@@ -528,26 +851,40 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11]
-Overfull \hbox (32.0pt too wide) in paragraph at lines 168--168
+[24]
+<figures/1,11.jpg, id=194, 784.43062pt x 505.13719pt>
+File: figures/1,11.jpg Graphic file (type jpg)
+<use figures/1,11.jpg>
+Package pdftex.def Info: figures/1,11.jpg  used on input line 297.
+(pdftex.def)             Requested size: 313.76668pt x 202.05128pt.
+
+Overfull \hbox (32.0pt too wide) in paragraph at lines 318--318
  []\OT1/pcr/m/n/10 $ sudo port instal opencv + python27 + openni_sensorkinect[]
  
  []
 
 
-Overfull \hbox (0.8177pt too wide) in paragraph at lines 169--170
+Overfull \hbox (0.8177pt too wide) in paragraph at lines 319--320
 \OT1/ptm/m/n/10 gin-stal OpenCV den-gan bind-ing Python 2.7 dan dukun-gan un-tu
 k kam-era kedala-
  []
 
 
-Overfull \hbox (4.55887pt too wide) in paragraph at lines 176--177
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25 <./figures/1,11.jpg>]
+Overfull \hbox (4.55887pt too wide) in paragraph at lines 326--327
 \OT1/ptm/m/n/10 bahkan [][]\OT1/pcr/m/n/10 openni_sensorkinect []\OT1/ptm/m/n/1
 0 menen-tukan var-ian den-gan dukun-gan seluas
  []
 
 
-Overfull \hbox (9.52644pt too wide) in paragraph at lines 176--177
+Overfull \hbox (9.52644pt too wide) in paragraph at lines 326--327
 \OT1/ptm/m/n/10 var-ian yang terse-dia se-belum men-gin-stal, kita da-pat mema-
 sukkan per-in-tah berikut: 
  []
@@ -560,33 +897,28 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12]
-Overfull \hbox (9.92743pt too wide) in paragraph at lines 195--196
+[26]
+Overfull \hbox (9.92743pt too wide) in paragraph at lines 345--346
 []\OT1/ptm/m/n/10 Dengan be-ber-apa langkah tam-ba-han, kita da-pat men-gubah c
 ara Mac-Ports mengkom-
  []
 
 
-Overfull \hbox (158.0pt too wide) in paragraph at lines 206--206
+Overfull \hbox (158.0pt too wide) in paragraph at lines 356--356
  [] \OT1/pcr/m/n/10 rsync: //rsync.macports.org/release/ports/ default baris, t
 ambahkan baris ini: 
  []
 
 
-Overfull \hbox (236.0pt too wide) in paragraph at lines 206--206
+Overfull \hbox (236.0pt too wide) in paragraph at lines 356--356
  []\OT1/pcr/m/n/10 Misalnya, jika <local_repository> adalah / Users / Joe / Por
 tfiles, tambahkan baris berikut:[] 
  []
 
 
-Overfull \hbox (110.0pt too wide) in paragraph at lines 214--214
+Overfull \hbox (110.0pt too wide) in paragraph at lines 364--364
  []\OT1/pcr/m/n/10 /opt/local/var/macports/sources/rsync.macports.org/release/p
 orts/graphi[] 
- []
-
-
-Overfull \hbox (14.0pt too wide) in paragraph at lines 216--216
- [] \OT1/pcr/m/n/10 $ cp <unzip_destination> / graphics <local_repository> 
  []
 
 
@@ -597,20 +929,61 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[13]
-Overfull \hbox (500.0pt too wide) in paragraph at lines 219--219
- []\OT1/pcr/m/n/10 https://github.com/Itseez/opencv/archive/3.0.0.zip, unzip ke
- lokasi mana pun, dan baca <unzip_destination> /OpenCV-3.0.0/CMakeLists.txt. 
+[27]
+<figures/1,12.jpg, id=205, 761.09344pt x 277.78781pt>
+File: figures/1,12.jpg Graphic file (type jpg)
+<use figures/1,12.jpg>
+Package pdftex.def Info: figures/1,12.jpg  used on input line 369.
+(pdftex.def)             Requested size: 228.32979pt x 83.33698pt.
+
+Overfull \hbox (65.36867pt too wide) in paragraph at lines 366--373
+\OT1/ptm/m/n/10 men-gun-duh repos-i-tori on-line saya dari [][]\OT1/pcr/m/n/10 
+http://nummist.com/opencv/ports.tar.gz
  []
 
 
-Overfull \hbox (38.0pt too wide) in paragraph at lines 225--225
+Overfull \hbox (14.0pt too wide) in paragraph at lines 374--374
+ [] \OT1/pcr/m/n/10 $ cp <unzip_destination> / graphics <local_repository> 
+ []
+
+<figures/1,13.jpg, id=206, 1026.83624pt x 484.81125pt>
+File: figures/1,13.jpg Graphic file (type jpg)
+<use figures/1,13.jpg>
+Package pdftex.def Info: figures/1,13.jpg  used on input line 378.
+(pdftex.def)             Requested size: 410.72722pt x 193.92105pt.
+
+Overfull \hbox (74.72722pt too wide) in paragraph at lines 378--379
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/1,12.jpg>]
+Overfull \hbox (229.20818pt too wide) in paragraph at lines 383--386
+\OT1/ptm/m/n/10 perlu meli-hat kode sum-bernya. Un-duh ar-sip kode sum-ber dari
+ [][]\OT1/pcr/m/n/10 https://github.com/Itseez/opencv/archive/3.0.0.zip
+ []
+
+
+Overfull \hbox (118.78911pt too wide) in paragraph at lines 383--386
+[]\OT1/ptm/m/n/10 un-zip ke lokasi mana pun, dan baca [][]\OT1/pcr/m/n/10 <unzi
+p_destination> /OpenCV-3.0.0/CMakeLists.txt.
+ []
+
+
+Overfull \hbox (38.0pt too wide) in paragraph at lines 390--390
  [] \OT1/pcr/m/n/10 $ sudo port instal opencv + python27 + openni_sensorkinect 
 
  []
 
 
-Overfull \hbox (16.91617pt too wide) in paragraph at lines 226--228
+Overfull \hbox (16.91617pt too wide) in paragraph at lines 391--393
 \OT1/ptm/m/n/10 file repos-i-tori de-fault karena uru-tan uru-tan-nya. /op-t/lo
 -cal/etc/-mac-port-s/-sources.conf. 
  []
@@ -623,7 +996,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[14]
+[29 <./figures/1,13.jpg>]
 
 ! Package inputenc Error: Unicode character ​ (U+200B)
 (inputenc)                not set up for use with LaTeX.
@@ -632,7 +1005,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.239 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
+l.404 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
                                                   
 ? 
 
@@ -643,28 +1016,28 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.239 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
+l.404 ...hub.com/mxcl/homebrew/go)" \end{verbatim}
                                                   
 ? 
 
-Overfull \hbox (32.0pt too wide) in paragraph at lines 239--239
+Overfull \hbox (32.0pt too wide) in paragraph at lines 404--404
  []\OT1/pcr/m/n/10 $ ruby -e "$ (curl -fsSkLraw.github.com/mxcl/homebrew/go)" 
  []
 
 
-Overfull \hbox (15.28648pt too wide) in paragraph at lines 240--240
+Overfull \hbox (15.28648pt too wide) in paragraph at lines 405--405
 []\OT1/ptm/m/n/10 Tidak seperti Mac-Ports, Home-brew tidak se-cara otoma-tis me
 n-em-patkan executable-
  []
 
 
-Overfull \hbox (68.0pt too wide) in paragraph at lines 243--243
+Overfull \hbox (68.0pt too wide) in paragraph at lines 408--408
  []\OT1/pcr/m/n/10 eksport PATH = / usr / local / bin: / usr / local / sbin: $ 
 PATH[] 
  []
 
 
-Overfull \hbox (2.91727pt too wide) in paragraph at lines 248--249
+Overfull \hbox (2.91727pt too wide) in paragraph at lines 413--414
 \OT1/ptm/m/n/10 Perhatikan bahwa ex-e-cutable yang di-in-stal oleh Home-brew se
 karang di-u-ta-makan
  []
@@ -677,7 +1050,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[15]
+[30]
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -685,7 +1058,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[16]
+[31]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -693,7 +1066,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...a beli dari akun Anda di \begin{verbatim}
+l.451 ...a beli dari akun Anda di \begin{verbatim}
                                                    http://www.packtpub.com.\...
 
 ? 
@@ -704,7 +1077,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...a beli dari akun Anda di \begin{verbatim}
+l.451 ...a beli dari akun Anda di \begin{verbatim}
                                                    http://www.packtpub.com.\...
 
 ? 
@@ -715,7 +1088,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...a beli dari akun Anda di \begin{verbatim}
+l.451 ...a beli dari akun Anda di \begin{verbatim}
                                                    http://www.packtpub.com.\...
 
 ? 
@@ -726,7 +1099,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...a beli dari akun Anda di \begin{verbatim}
+l.451 ...a beli dari akun Anda di \begin{verbatim}
                                                    http://www.packtpub.com.\...
 
 ? 
@@ -737,17 +1110,33 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...a beli dari akun Anda di \begin{verbatim}
+l.451 ...a beli dari akun Anda di \begin{verbatim}
                                                    http://www.packtpub.com.\...
 
 ? 
 
-Overfull \hbox (35.0pt too wide) in paragraph at lines 294--294
+Overfull \hbox (0.84824pt too wide) in paragraph at lines 446--451
+\OT1/ptm/m/n/10 Anda da-pat men-gun-duh file kode con-toh un-tuk se-mua buku Pe
+ner-bi-tan Packt
+ []
+
+<figures/1,14.jpg, id=219, 967.36406pt x 417.05812pt>
+File: figures/1,14.jpg Graphic file (type jpg)
+<use figures/1,14.jpg>
+Package pdftex.def Info: figures/1,14.jpg  used on input line 454.
+(pdftex.def)             Requested size: 386.93877pt x 166.82028pt.
+
+Overfull \hbox (50.93877pt too wide) in paragraph at lines 454--455
+ [][] 
+ []
+
+
+Overfull \hbox (35.0pt too wide) in paragraph at lines 466--466
  [] \OT1/pcr/m/n/10 https://github.com/mxcl/homebrew/wiki/Formula-Cookbook. 
  []
 
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 296--296
+Overfull \hbox (5.0pt too wide) in paragraph at lines 468--468
  [] \OT1/pcr/m/n/10 https://github.com/Itseez/opencv/archive/3.0.0.zip 
  []
 
@@ -759,26 +1148,34 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[17]
-Overfull \hbox (5.84738pt too wide) in paragraph at lines 310--311
+[32 <./figures/1,14.jpg>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[33]
+Overfull \hbox (5.84738pt too wide) in paragraph at lines 482--483
 \OT1/ptm/m/n/10 stan-dar berisi paket OpenCV 2.4.9 tanpa dukun-gan un-tuk kam-e
 ra yang dalam.
  []
 
 
-Overfull \hbox (1.62634pt too wide) in paragraph at lines 310--311
+Overfull \hbox (1.62634pt too wide) in paragraph at lines 482--483
 \OT1/ptm/m/n/10 Pada saat penulisan ini, OpenCV 3 belum terse-dia melalui repos
 -i-tori Ubuntu,
  []
 
 
-Overfull \hbox (125.0pt too wide) in paragraph at lines 321--321
+Overfull \hbox (125.0pt too wide) in paragraph at lines 493--493
  []\OT1/pcr/m/n/10 > sudo apt-get install cmake git libgtk2.0-dev pkg-config li
 bavcodecdev[] 
  []
 
 
-Overfull \hbox (479.0pt too wide) in paragraph at lines 321--321
+Overfull \hbox (479.0pt too wide) in paragraph at lines 493--493
  []\OT1/pcr/m/n/10 > sudo apt-get install python-dev python-numpy libtbb2 libtb
 b-dev libjpegdev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev[] 
  []
@@ -791,53 +1188,63 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18]
-Overfull \hbox (224.67911pt too wide) in paragraph at lines 325--331
+[34]
+Overfull \hbox (224.67911pt too wide) in paragraph at lines 497--503
 \OT1/ptm/m/n/10 kita perlu men-gun-duh kode sum-bernya [] []\OT1/pcr/m/n/10 htt
 ps: //github.com/Itseez/opencv/archive/3.0.0-beta.zip.  []\OT1/ptm/m/n/10 Ek-
  []
 
 
-Overfull \hbox (149.0pt too wide) in paragraph at lines 337--337
+Overfull \hbox (149.0pt too wide) in paragraph at lines 509--509
  []\OT1/pcr/m/n/10 > cmake -D CMAKE_BUILD_TYPE =Release -D CMAKE_INSTALL_PREFIX
  =/usr/local ..[] 
  []
 
 
-Overfull \hbox (12.74716pt too wide) in paragraph at lines 339--342
+Overfull \hbox (12.74716pt too wide) in paragraph at lines 511--514
 []\OT1/ptm/m/n/10 Setelah in-sta-lasi be-rakhir, Anda mungkin in-gin meli-hat c
 on-toh Python OpenCV
  []
 
 
-Overfull \hbox (182.9199pt too wide) in paragraph at lines 339--342
+Overfull \hbox (182.9199pt too wide) in paragraph at lines 511--514
 \OT1/ptm/m/n/10 di [][]\OT1/pcr/m/n/10 <opencv_folder>/opencv/samples/python []
 \OT1/ptm/m/n/10 dan [][]\OT1/pcr/m/n/10 <script_folder>/opencv/samples/python2.
  
  []
 
 
-Overfull \hbox (7.48744pt too wide) in paragraph at lines 343--348
+Overfull \hbox (7.48744pt too wide) in paragraph at lines 515--520
 \OT1/ptm/m/n/10 yang di-je-laskan se-belum-nya) ke-mu-ngk-i-nan akan bek-erja p
 ada dis-tribusi Linux
  []
 
 
-Overfull \hbox (2.92755pt too wide) in paragraph at lines 349--350
+Overfull \hbox (2.92755pt too wide) in paragraph at lines 521--522
 []\OT1/ptm/m/n/10 Pada De-bian Linux dan tu-runan-nya, man-a-jer paket apt berf
 ungsi sama seperti
  []
 
 
-Overfull \hbox (5.41687pt too wide) in paragraph at lines 351--352
+Overfull \hbox (5.41687pt too wide) in paragraph at lines 523--524
 \OT1/ptm/m/n/10 Ports (seperti di-je-laskan se-belum-nya), meskipun paket yang 
 terse-dia mungkin
  []
 
+<figures/1,15.jpg, id=230, 1028.34187pt x 483.30562pt>
+File: figures/1,15.jpg Graphic file (type jpg)
+<use figures/1,15.jpg>
+Package pdftex.def Info: figures/1,15.jpg  used on input line 528.
+(pdftex.def)             Requested size: 411.32947pt x 193.31882pt.
 
-Overfull \hbox (170.8676pt too wide) in paragraph at lines 353--354
-\OT1/ptm/m/n/10 FreeBSD. Ba-calah Buku Pe-gan-gan FreeBSD yang luar bi-asa di [
-][]\OT1/pcr/m/n/10 https://www.freebsd.org/doc/handbook/
+Overfull \hbox (75.32947pt too wide) in paragraph at lines 528--529
+ [][] 
+ []
+
+
+Overfull \hbox (5.02911pt too wide) in paragraph at lines 525--532
+[][]\OT1/pcr/m/n/10 https://www.freebsd.org/doc/handbook/ []\OT1/ptm/m/n/10 un-
+tuk ikhti-sar proses
  []
 
 
@@ -848,7 +1255,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19]
+[35]
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -856,35 +1263,614 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[20]
-Overfull \hbox (149.46904pt too wide) in paragraph at lines 367--369
+[36 <./figures/1,15.jpg>]
+Overfull \hbox (149.46904pt too wide) in paragraph at lines 545--547
 \OT1/ptm/m/n/10 yang dise-but [][]\OT1/pcr/m/n/10 opencv_contrib[]\OT1/ptm/m/n/
 10 , yang terse-dia di [][]\OT1/pcr/m/n/10 https://github.com/Itseez/opencv_con
 trib.
  []
 
 
-Overfull \hbox (1.48804pt too wide) in paragraph at lines 367--369
+Overfull \hbox (1.48804pt too wide) in paragraph at lines 545--547
 \OT1/ptm/m/n/10 pem-ban-gu-nan OpenCV den-gan modul [][]\OT1/pcr/m/n/10 opencv_
 contrib []\OT1/ptm/m/n/10 se-ba-gai berikut: 
  []
 
 
-Overfull \hbox (71.0pt too wide) in paragraph at lines 372--372
+Overfull \hbox (71.0pt too wide) in paragraph at lines 550--550
  []\OT1/pcr/m/n/10 cmake -DOPENCV_EXTRA_MODULES_PATH = <opencv_contrib> / modul
 es[] 
  []
 
 
-Overfull \hbox (95.0pt too wide) in paragraph at lines 381--381
+Overfull \hbox (95.0pt too wide) in paragraph at lines 559--559
  []\OT1/pcr/m/n/10 cmake -D CMAKE_BUILD_TYPE = Lepaskan -DOPENCV_EXTRA_MODULES_
 PATH =[] 
  []
 
 
-Overfull \hbox (113.0pt too wide) in paragraph at lines 381--381
+Overfull \hbox (113.0pt too wide) in paragraph at lines 559--559
  []\OT1/pcr/m/n/10 <opencv_contrib> / modules -D CMAKE_INSTALL_PREFIX = / usr /
  local ..[] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37]
+<figures/1,16.jpg, id=240, 1027.58907pt x 487.06969pt>
+File: figures/1,16.jpg Graphic file (type jpg)
+<use figures/1,16.jpg>
+Package pdftex.def Info: figures/1,16.jpg  used on input line 566.
+(pdftex.def)             Requested size: 411.02835pt x 194.82442pt.
+
+Overfull \hbox (75.02835pt too wide) in paragraph at lines 566--567
+ [][] 
+ []
+
+
+Overfull \hbox (53.0pt too wide) in paragraph at lines 563--570
+[][]\OT1/pcr/m/n/10 https://www.jetbrains.com/pycharm/download/#section=windows
+ 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38 <./figures/1,16.jpg>]
+<figures/1,17.png, id=245, 331.2375pt x 346.29375pt>
+File: figures/1,17.png Graphic file (type png)
+<use figures/1,17.png>
+Package pdftex.def Info: figures/1,17.png  used on input line 574.
+(pdftex.def)             Requested size: 132.49265pt x 138.51503pt.
+<figures/1,18.jpg, id=246, 761.09344pt x 361.35pt>
+File: figures/1,18.jpg Graphic file (type jpg)
+<use figures/1,18.jpg>
+Package pdftex.def Info: figures/1,18.jpg  used on input line 582.
+(pdftex.def)             Requested size: 304.43199pt x 144.53743pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39 <./figures/1,17.png> <./figures/1,18.jpg>]
+<figures/1,19.jpg, id=251, 698.61pt x 353.06906pt>
+File: figures/1,19.jpg Graphic file (type jpg)
+<use figures/1,19.jpg>
+Package pdftex.def Info: figures/1,19.jpg  used on input line 590.
+(pdftex.def)             Requested size: 279.43904pt x 141.22511pt.
+) (chapters/2.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[40 <./figures/1,19.jpg>]
+Bab 2.
+(src/cv2.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 8--9
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+[41
+
+]
+<figures/2,2.jpg, id=258, 561.59813pt x 410.2828pt>
+File: figures/2,2.jpg Graphic file (type jpg)
+<use figures/2,2.jpg>
+Package pdftex.def Info: figures/2,2.jpg  used on input line 17.
+(pdftex.def)             Requested size: 280.79837pt x 205.1409pt.
+
+Overfull \hbox (0.83777pt too wide) in paragraph at lines 21--22
+\OT1/ptm/m/n/10 yang di rubah sama sekali, kodin-gan ini hanya bertu-juan un-tu
+k menampilkan
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42 <./figures/2,2.jpg>] (src/cv1.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 28--29
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+<figures/2,1.jpg, id=262, 578.91281pt x 407.27156pt>
+File: figures/2,1.jpg Graphic file (type jpg)
+<use figures/2,1.jpg>
+Package pdftex.def Info: figures/2,1.jpg  used on input line 38.
+(pdftex.def)             Requested size: 289.45569pt x 203.63527pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43 <./figures/2,1.jpg>] (src/cv3.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 49--50
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \hbox (8.26761pt too wide) in paragraph at lines 54--55
+\OT1/ptm/m/n/10 tuliskan nama gam-bar yang akan dis-im-pan be-serta for-matgam-
+barnya,
+ []
+
+
+Overfull \hbox (9.05788pt too wide) in paragraph at lines 54--55
+\OT1/ptm/m/n/10 ke-mu-dian kode img un-tuk meny-atakan yang dis-im-pan terse-bu
+t adalah
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44]
+<figures/2,3.jpg, id=270, 467.49657pt x 357.58594pt>
+File: figures/2,3.jpg Graphic file (type jpg)
+<use figures/2,3.jpg>
+Package pdftex.def Info: figures/2,3.jpg  used on input line 60.
+(pdftex.def)             Requested size: 233.74771pt x 178.79253pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45 <./figures/2,3.jpg>] (src/cv4.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[46]
+<figures/2,4.jpg, id=277, 747.54282pt x 417.05812pt>
+File: figures/2,4.jpg Graphic file (type jpg)
+<use figures/2,4.jpg>
+Package pdftex.def Info: figures/2,4.jpg  used on input line 85.
+(pdftex.def)             Requested size: 373.7705pt x 208.52855pt.
+
+Overfull \hbox (37.7705pt too wide) in paragraph at lines 85--86
+ [][] 
+ []
+
+
+Overfull \hbox (5.17754pt too wide) in paragraph at lines 90--91
+[]\OT1/ptm/m/n/10 Pada videocp-ture ini hanya merekam meng-gu-nakan kam-era lep
+-top saja belum
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47 <./figures/2,4.jpg>] (src/cv5.py)
+Overfull \hbox (1.65755pt too wide) in paragraph at lines 100--101
+\OT1/ptm/m/n/10 war-nanya men-jadi hi-tam putih, ke-mu-dian pang-gil cvt-Color 
+di-dalam
+ []
+
+<figures/2,5.jpg, id=281, 762.59906pt x 418.56375pt>
+File: figures/2,5.jpg Graphic file (type jpg)
+<use figures/2,5.jpg>
+Package pdftex.def Info: figures/2,5.jpg  used on input line 109.
+(pdftex.def)             Requested size: 381.2986pt x 209.28136pt.
+
+Overfull \hbox (45.2986pt too wide) in paragraph at lines 109--110
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[48] (src/cv6.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[49 <./figures/2,5.jpg>]
+Overfull \hbox (1.65755pt too wide) in paragraph at lines 125--126
+\OT1/ptm/m/n/10 war-nanya men-jadi hi-tam putih, ke-mu-dian pang-gil cvt-Color 
+di-dalam
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[50]
+<figures/2,6.jpg, id=292, 675.27281pt x 415.5525pt>
+File: figures/2,6.jpg Graphic file (type jpg)
+<use figures/2,6.jpg>
+Package pdftex.def Info: figures/2,6.jpg  used on input line 135.
+(pdftex.def)             Requested size: 337.63557pt x 207.77574pt.
+
+Overfull \hbox (1.63557pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+
+Overfull \hbox (7.28732pt too wide) in paragraph at lines 140--141
+\OT1/ptm/m/n/10 bagian video-cap-ture juga jika tidak di lakukan pe-ru-lan-gan 
+maka sekali muncul
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[51 <./figures/2,6.jpg>] (src/cv7.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52]
+Overfull \hbox (1.65755pt too wide) in paragraph at lines 156--157
+\OT1/ptm/m/n/10 war-nanya men-jadi hi-tam putih, ke-mu-dian pang-gil cvt-Color 
+di-dalam
+ []
+
+<figures/2,7.jpg, id=299, 735.49782pt x 479.54156pt>
+File: figures/2,7.jpg Graphic file (type jpg)
+<use figures/2,7.jpg>
+Package pdftex.def Info: figures/2,7.jpg  used on input line 165.
+(pdftex.def)             Requested size: 367.74802pt x 239.77019pt.
+
+Overfull \hbox (31.74802pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53 <./figures/2,7.jpg>]
+<figures/2,7,1.jpg, id=303, 213.04594pt x 121.20282pt>
+File: figures/2,7,1.jpg Graphic file (type jpg)
+<use figures/2,7,1.jpg>
+Package pdftex.def Info: figures/2,7,1.jpg  used on input line 173.
+(pdftex.def)             Requested size: 106.5227pt x 60.60126pt.
+<figures/2,7,2.jpg, id=304, 718.93594pt x 523.20468pt>
+File: figures/2,7,2.jpg Graphic file (type jpg)
+<use figures/2,7,2.jpg>
+Package pdftex.def Info: figures/2,7,2.jpg  used on input line 180.
+(pdftex.def)             Requested size: 359.46709pt x 261.6017pt.
+
+Overfull \hbox (23.46709pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54 <./figures/2,7,1.jpg> <./figures/2,7,2.jpg>] (src/cv8.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 193--194
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[55]
+<figures/2,8.jpg, id=311, 655.69969pt x 412.54124pt>
+File: figures/2,8.jpg Graphic file (type jpg)
+<use figures/2,8.jpg>
+Package pdftex.def Info: figures/2,8.jpg  used on input line 203.
+(pdftex.def)             Requested size: 327.84904pt x 206.27011pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[56 <./figures/2,8.jpg>] (src/cv9.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 215--216
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[57]
+<figures/2,9.jpg, id=319, 660.96938pt x 435.12563pt>
+File: figures/2,9.jpg Graphic file (type jpg)
+<use figures/2,9.jpg>
+Package pdftex.def Info: figures/2,9.jpg  used on input line 225.
+(pdftex.def)             Requested size: 330.48387pt x 217.56227pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58 <./figures/2,9.jpg>]
+<figures/2,9,1.jpg, id=323, 659.46375pt x 451.6875pt>
+File: figures/2,9,1.jpg Graphic file (type jpg)
+<use figures/2,9,1.jpg>
+Package pdftex.def Info: figures/2,9,1.jpg  used on input line 235.
+(pdftex.def)             Requested size: 329.73106pt x 225.84319pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[59 <./figures/2,9,1.jpg>] (src/cv10.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 247--248
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[60]
+<figures/2,10.jpg, id=330, 642.90187pt x 417.05812pt>
+File: figures/2,10.jpg Graphic file (type jpg)
+<use figures/2,10.jpg>
+Package pdftex.def Info: figures/2,10.jpg  used on input line 258.
+(pdftex.def)             Requested size: 321.45015pt x 208.52855pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[61 <./figures/2,10.jpg>] (src/cv11.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 270--271
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \hbox (4.85822pt too wide) in paragraph at lines 273--274
+[]\OT1/ptm/m/n/10 kemudian buat garis ko-tak meng-gu-nakan cv2.rectangle, 384,0
+ meru-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[62]
+<figures/2,11.jpg, id=338, 636.12656pt x 423.08063pt>
+File: figures/2,11.jpg Graphic file (type jpg)
+<use figures/2,11.jpg>
+Package pdftex.def Info: figures/2,11.jpg  used on input line 282.
+(pdftex.def)             Requested size: 318.0625pt x 211.5398pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[63 <./figures/2,11.jpg>] (src/cv12.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 294--295
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \hbox (4.85822pt too wide) in paragraph at lines 297--298
+[]\OT1/ptm/m/n/10 kemudian buat garis ko-tak meng-gu-nakan cv2.rectangle, 384,0
+ meru-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[64]
+<figures/2,12.jpg, id=345, 638.385pt x 423.08063pt>
+File: figures/2,12.jpg Graphic file (type jpg)
+<use figures/2,12.jpg>
+Package pdftex.def Info: figures/2,12.jpg  used on input line 306.
+(pdftex.def)             Requested size: 319.19171pt x 211.5398pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[65 <./figures/2,12.jpg>] (src/cv13.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 318--319
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \hbox (4.85822pt too wide) in paragraph at lines 321--322
+[]\OT1/ptm/m/n/10 kemudian buat garis ko-tak meng-gu-nakan cv2.rectangle, 384,0
+ meru-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[66]
+<figures/2,13.jpg, id=352, 640.64343pt x 422.32782pt>
+File: figures/2,13.jpg Graphic file (type jpg)
+<use figures/2,13.jpg>
+Package pdftex.def Info: figures/2,13.jpg  used on input line 330.
+(pdftex.def)             Requested size: 320.32092pt x 211.16339pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[67 <./figures/2,13.jpg>] (src/cv14.py)
+Overfull \hbox (1.70766pt too wide) in paragraph at lines 342--343
+[]\OT1/ptm/m/n/10 kemudian pang-gil file foto meng-gu-nakan kode seperti di ata
+s, mem-
+ []
+
+
+Overfull \hbox (4.85822pt too wide) in paragraph at lines 345--346
+[]\OT1/ptm/m/n/10 kemudian buat garis ko-tak meng-gu-nakan cv2.rectangle, 384,0
+ meru-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[68]
+<figures/2,14.jpg, id=360, 691.08188pt x 441.90094pt>
+File: figures/2,14.jpg Graphic file (type jpg)
+<use figures/2,14.jpg>
+Package pdftex.def Info: figures/2,14.jpg  used on input line 356.
+(pdftex.def)             Requested size: 345.54008pt x 220.94992pt.
+
+Overfull \hbox (9.54008pt too wide) in paragraph at lines 356--357
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[69 <./figures/2,14.jpg>] (src/cv15.py)
+Overfull \hbox (4.85822pt too wide) in paragraph at lines 373--374
+[]\OT1/ptm/m/n/10 kemudian buat garis ko-tak meng-gu-nakan cv2.rectangle, 384,0
+ meru-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[70]
+<figures/2,15.jpg, id=367, 732.48656pt x 441.14813pt>
+File: figures/2,15.jpg Graphic file (type jpg)
+<use figures/2,15.jpg>
+Package pdftex.def Info: figures/2,15.jpg  used on input line 384.
+(pdftex.def)             Requested size: 366.24237pt x 220.57352pt.
+
+Overfull \hbox (30.24237pt too wide) in paragraph at lines 384--385
+ [][] 
  []
 
 )
@@ -897,12 +1883,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[21] [22
+[71 <./figures/2,15.jpg>] [72
 
 ]
 No file main.ind.
 
-! LaTeX Error: \begin{enumerate} on input line 278 ended by \end{document}.
+! LaTeX Error: \begin{enumerate} on input line 443 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -911,20 +1897,24 @@ Type  H <return>  for immediate help.
 l.272 \end{document}
                     
 ? 
-(main.aux) )
+(main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 278 (\begingroup)
-### semi simple group (level 1) entered at line 237 (\begingroup)
+### semi simple group (level 2) entered at line 443 (\begingroup)
+### semi simple group (level 1) entered at line 402 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3365 strings out of 492946
- 47261 string characters out of 3136410
- 302595 words of memory out of 3000000
- 7161 multiletter control sequences out of 15000+200000
- 61644 words of font info for 115 fonts, out of 3000000 for 9000
+ 4019 strings out of 492946
+ 55940 string characters out of 3136410
+ 426595 words of memory out of 3000000
+ 7703 multiletter control sequences out of 15000+200000
+ 65903 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,47p,1610b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,47p,1610b,1645s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/najib/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/User
 s/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/najib/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/najib/MiKTeX 2.9/f
@@ -936,9 +1926,9 @@ sy8.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users
 9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
 <C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (51 pages, 198857 bytes).
+Output written on main.pdf (101 pages, 3317398 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
+ 416 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
