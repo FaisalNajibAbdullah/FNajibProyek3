@@ -387,3 +387,572 @@ Text ini bisa kita buat sesuai kata kata yang di inginkan dan kata kata yang ses
 \end{figure}
 
 Frame ini dibuat menggunakan matriks yang ada pada library numpay, kita tidak perlu lagi menghitung berapa matriksnya kita cukup gunakan zeros dan ukuran yang di butuhkan.
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv16.py}
+\begin{enumerate}
+	\item import cv2
+	\item membuat variable cap untuk menghubungkan kamera leptop
+	\item print ukuran frame lebar dan tinggi menggunakan CAP PROP FRAME WIDTH dan CAP PROP FRAME HEIGHT
+	\item membuat ukuran frame baru, jika ukurannya tidak sesuai maka akan otomatis mengikuti ukutan sebelumnya.
+	\item print untuk menampilkan ukuran frame saat ini
+	\item membuat while yaitu perulangan membuka frame
+	\item kemudian didalam perulangan tersebut terdapat frame yang membaca atau merekam video.
+	\item jika kamera true merekam maka akan melakukan perintah. 
+	\item buat variable dengan nama gray karna kita mau berubah kontras warnanya menjadi hitam putih, kemudian panggil cvtColor didalam frame dengan warna abu abu.
+	\item kemudian buat frame dengan nama frame
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item release untuk menutup videocapture
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,16.jpg}
+\caption{Merubah ukuran frame}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Menampilkan Text pada Frame video}
+\lstinputlisting{src/cv17.py}
+\begin{enumerate}
+	\item import cv2
+	\item membuat variable cap untuk menghubungkan kamera leptop
+	\item print ukuran frame lebar dan tinggi menggunakan CAP PROP FRAME WIDTH dan CAP PROP FRAME HEIGHT
+	\item membuat ukuran frame baru, jika ukurannya tidak sesuai maka akan otomatis mengikuti ukutan sebelumnya.
+	\item print untuk menampilkan ukuran frame saat ini
+	\item membuat while yaitu perulangan membuka frame
+	\item kemudian didalam perulangan tersebut terdapat frame yang membaca atau merekam video.
+	\item jika kamera true merekam maka akan melakukan perintah. 
+	\item membuat font untuk tulisan pada gambar
+	\item menampilkan tulisan ukuran frame
+	\item menampilkan tulisan pada frame
+	\item kemudian buat frame dengan nama frame
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item release untuk menutup videocapture
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,17.jpg}
+\caption{Menampilkan Text pada Frame video}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Menampilakn waktu pada frame}
+\lstinputlisting{src/cv18.py}
+\begin{enumerate}
+	\item import cv2
+	\item import date time
+	\item membuat variable cap untuk menghubungkan kamera leptop
+	\item print ukuran frame lebar dan tinggi menggunakan CAP PROP FRAME WIDTH dan CAP PROP FRAME HEIGHT
+	\item membuat while yaitu perulangan membuka frame
+	\item kemudian didalam perulangan tersebut terdapat frame yang membaca atau merekam video.
+	\item jika kamera true merekam maka akan melakukan perintah. 
+	\item membuat font untuk tulisan pada gambar
+	\item menampilkan tulisan ukuran frame
+	\item menampilkan tulisan tanggal dan waktu pada frame
+	\item kemudian buat frame dengan nama frame
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item release untuk menutup videocapture
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,18.jpg}
+\caption{Menampilakn waktu pada frame}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Menampilkan Event}
+\lstinputlisting{src/cv19.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item menampilkan even event yang dapat digunakan untuk mouse klik
+	\item menampilkannya dengan print
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,19.jpg}
+\caption{Menampilkan Event}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Event Mouse klik kiri}
+\lstinputlisting{src/cv20.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item pada frame akan menampilkan posisi pada frame yang di klik
+	\item membuat frame dengan ukuran 512 512 dengan warna hitam
+	\item menampilkan frame dengan nama image
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,20.jpg}
+\caption{Event Mouse klik kiri}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,20,1.jpg}
+\caption{Event Mouse klik kiri}
+\label{contoh}
+\end{figure}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,20,2.jpg}
+\caption{Event Mouse klik kiri}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Event Mouse klik kiri dan kanan}
+\lstinputlisting{src/cv21.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item pada frame akan menampilkan posisi pada frame yang di klik
+	\item dan jika mouse mengklik kanan
+	\item maka frame akan menampilkan nomor warna yanga ada pada frame yang di klik tersebut, terdapat 3 nomor karna menggunakan konsep bgr yaitu blue green dan red.
+	\item membuat frame dengan ukuran 512 512 dengan warna hitam
+	\item menampilkan frame dengan nama image
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,21.jpg}
+\caption{Event Mouse klik kiri dan kanan}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Event Mouse klik kiri dan kanan pada gambar yang dipangggil}
+\lstinputlisting{src/cv22.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item pada frame akan menampilkan posisi pada frame yang di klik
+	\item dan jika mouse mengklik kanan
+	\item maka frame akan menampilkan nomor warna yanga ada pada frame yang di klik tersebut, terdapat 3 nomor karna menggunakan konsep bgr yaitu blue green dan red.
+	\item memanggil gambar untuk di taruh pada frame yang telah di buat
+	\item menampilkan frame dengan nama image
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,22.jpg}
+\caption{Event Mouse klik kiri dan kanan pada gambar yang dipangggil}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Event Mouse klik kiri membuat titik dan garis}
+\lstinputlisting{src/cv23.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item pada frame akan membuat sebuah titik berwarna merah sesuai lokasi mengklik frame
+	\item jika titik tersebut lebih dari sama dengan 2 maka setiap titik yang terakhir akan terhubung satu sama lain.
+	\item menampilkan frame dengan nama image
+	\item gambar pada frame berwarna hitam
+	\item menampilkan frame kembali
+	\item point menghilang setelah berubah menjadi garis atau line
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,23.jpg}
+\caption{Event Mouse klik kiri membuat titik dan garis}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,23,1.jpg}
+\caption{Event Mouse klik kiri membuat titik dan garis}
+\label{contoh}
+\end{figure}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,23,2.jpg}
+\caption{Event Mouse klik kiri membuat titik dan garis}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Membuat frame warna sesuai klik}
+\lstinputlisting{src/cv24.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item warna biru di deklarasikan dengan 0
+	\item warna hijau di deklarasikan dengan 1
+	\item warna merah di deklarasikan dengan 2
+	\item membuat lingkaran kecil berwarna merah
+	\item membuat warna sesuai lokasi frame yang di klik harus sesuai dengan warna yang di klik
+	\item memanggil gambar
+	\item menampilkan frame kembali
+	\item point menghilang setelah berubah menjadi garis atau line
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,24.jpg}
+\caption{Membuat frame warna sesuai klik}
+\label{contoh}
+\end{figure}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,24,1.jpg}
+\caption{Membuat frame warna sesuai klik}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,24,2.jpg}
+\caption{Membuat frame warna sesuai klik}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Membuat frame warna sesuai klik 2}
+\lstinputlisting{src/cv25.py}
+\begin{enumerate}
+	\item Import numpy
+	\item import cv2
+	\item buat def dengan nama click event
+	\item jika mouse mengklik kiri maka akan melakukan sesuatu
+	\item warna biru di deklarasikan dengan 0
+	\item warna hijau di deklarasikan dengan 1
+	\item warna merah di deklarasikan dengan 2
+	\item membuat lingkaran kecil berwarna merah
+	\item membuat warna sesuai lokasi frame yang di klik harus sesuai dengan warna yang di klik
+	\item menggunakan gambar hitam
+	\item menampilkan frame kembali
+	\item point menghilang setelah berubah menjadi garis atau line
+	\item memanggil fungsi klik pada mouse
+	\item kemudian gunakan waitKey untuk membuat frame agar tidak langsung mati atau tertutup otomatis.
+	\item destroyAllWindows digunakan untuk menutup frame.
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.4]{figures/2,25.jpg}
+\caption{Membuat frame warna sesuai klik 2}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv26.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,26.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv27.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\newpage
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,27.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv28.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,28.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv29.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,29.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv30.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,30.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,30,1.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv31.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,31.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,31,1.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv32.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,32.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,32,1.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv33.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,33.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,33,1.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,33,2.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv34.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,34.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv35.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,35.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv36.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,36.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,36,1.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,36,2.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,36,3.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}
+
+
+
+\newpage
+\subsection{Berubah Ukuran Frame}
+\lstinputlisting{src/cv37.py}
+\begin{enumerate}
+	\item
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{figures/2,37.jpg}
+\caption{Membuat Frame Numpy}
+\label{contoh}
+\end{figure}

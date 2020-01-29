@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  25 JAN 2020 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  29 JAN 2020 14:18
 entering extended mode
 **./main.tex
 (main.tex
@@ -251,6 +251,114 @@ LaTeX Warning: Label `contoh' multiply defined.
 
 LaTeX Warning: Label `contoh' multiply defined.
 
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
+
+LaTeX Warning: Label `contoh' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -364,7 +472,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--9
  [] []  
  []
 
-[9])
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -376,9 +495,25 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10] (main.lof [11
+[11] [12
 
-])
+] (main.lof [13]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -390,18 +525,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12] (main.lot)
+[16] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [13
+ [17
 
-] [14
+] [18
 
 ] (main.lol
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15])
+ [19])
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
@@ -413,9 +548,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[16] (info/foreword.tex) [17
+[20] (info/foreword.tex) [21
 
-] [18
+] [22
 
 ] (info/preface.tex
 Overfull \hbox (3.73755pt too wide) in paragraph at lines 1--2
@@ -423,9 +558,9 @@ Overfull \hbox (3.73755pt too wide) in paragraph at lines 1--2
 n ke-mam-puan mem-
  []
 
-) [19] [20
+) [23] [24
 
-] (info/acknowledgments.tex [21]) [22
+] (info/acknowledgments.tex [25]) [26
 
 ] (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
@@ -436,13 +571,13 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
- [23] [24
+ [27] [28
 
 ]
-(info/symbols.tex) [25] [26
+(info/symbols.tex) [29] [30
 
-] (info/introduction.tex) [27] (chapters/1.tex
-[28
+] (info/introduction.tex) [31] (chapters/1.tex
+[32
 
 ]
 Bab 1.
@@ -562,7 +697,7 @@ Overfull \hbox (62.0pt too wide) in paragraph at lines 118--118
 exe 
  []
 
-<figures/1,1.jpg, id=139, 610.53094pt x 428.35031pt>
+<figures/1,1.jpg, id=152, 610.53094pt x 428.35031pt>
 File: figures/1,1.jpg Graphic file (type jpg)
 <use figures/1,1.jpg>
 Package pdftex.def Info: figures/1,1.jpg  used on input line 121.
@@ -576,7 +711,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [11 <./figures/1,1.jpg>]
-<figures/1,2.jpg, id=144, 1016.29688pt x 462.22687pt>
+<figures/1,2.jpg, id=157, 1016.29688pt x 462.22687pt>
 File: figures/1,2.jpg Graphic file (type jpg)
 <use figures/1,2.jpg>
 Package pdftex.def Info: figures/1,2.jpg  used on input line 129.
@@ -631,7 +766,7 @@ Overfull \hbox (26.0pt too wide) in paragraph at lines 154--154
  [] \OT1/pcr/m/n/10 http://www.cmake.org/files/v3.1/cmake3.1.2-win32-x86.exe 
  []
 
-<figures/1,3.jpg, id=155, 581.92406pt x 508.14844pt>
+<figures/1,3.jpg, id=167, 581.92406pt x 508.14844pt>
 File: figures/1,3.jpg Graphic file (type jpg)
 <use figures/1,3.jpg>
 Package pdftex.def Info: figures/1,3.jpg  used on input line 157.
@@ -650,7 +785,7 @@ Overfull \hbox (260.0pt too wide) in paragraph at lines 163--163
 s.aspx?slcid=0x409&type=web or MinGW 
  []
 
-<figures/1,4.jpg, id=159, 1028.34187pt x 502.87875pt>
+<figures/1,4.jpg, id=171, 1028.34187pt x 502.87875pt>
 File: figures/1,4.jpg Graphic file (type jpg)
 <use figures/1,4.jpg>
 Package pdftex.def Info: figures/1,4.jpg  used on input line 166.
@@ -669,7 +804,7 @@ Overfull \hbox (176.0pt too wide) in paragraph at lines 172--172
 get-setup.exe/download 
  []
 
-<figures/1,5.jpg, id=163, 1028.34187pt x 469.755pt>
+<figures/1,5.jpg, id=176, 1028.34187pt x 469.755pt>
 File: figures/1,5.jpg Graphic file (type jpg)
 <use figures/1,5.jpg>
 Package pdftex.def Info: figures/1,5.jpg  used on input line 175.
@@ -689,7 +824,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [17 <./figures/1,5.jpg>]
-<figures/1,6.jpg, id=167, 1028.34187pt x 445.665pt>
+<figures/1,6.jpg, id=180, 1028.34187pt x 445.665pt>
 File: figures/1,6.jpg Graphic file (type jpg)
 <use figures/1,6.jpg>
 Package pdftex.def Info: figures/1,6.jpg  used on input line 183.
@@ -703,7 +838,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [18 <./figures/1,6.jpg>]
-<figures/1,7.jpg, id=171, 1028.34187pt x 491.58656pt>
+<figures/1,7.jpg, id=184, 1028.34187pt x 491.58656pt>
 File: figures/1,7.jpg Graphic file (type jpg)
 <use figures/1,7.jpg>
 Package pdftex.def Info: figures/1,7.jpg  used on input line 192.
@@ -714,7 +849,7 @@ Overfull \hbox (350.0pt too wide) in paragraph at lines 196--196
 orKinect093-BinWin32-v5.1.2.1.msi?raw=true (32-bit) 
  []
 
-<figures/1,8.jpg, id=172, 1028.34187pt x 339.51843pt>
+<figures/1,8.jpg, id=185, 1028.34187pt x 339.51843pt>
 File: figures/1,8.jpg Graphic file (type jpg)
 <use figures/1,8.jpg>
 Package pdftex.def Info: figures/1,8.jpg  used on input line 199.
@@ -737,7 +872,7 @@ File: figures/1,8.jpg Graphic file (type jpg)
 <use figures/1,8.jpg>
 Package pdftex.def Info: figures/1,8.jpg  used on input line 207.
 (pdftex.def)             Requested size: 308.50494pt x 101.85631pt.
-<figures/1,9.jpg, id=176, 1028.34187pt x 489.32813pt>
+<figures/1,9.jpg, id=189, 1028.34187pt x 489.32813pt>
 File: figures/1,9.jpg Graphic file (type jpg)
 <use figures/1,9.jpg>
 Package pdftex.def Info: figures/1,9.jpg  used on input line 215.
@@ -816,7 +951,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [22]
-<figures/1,10.jpg, id=187, 1026.08344pt x 493.0922pt>
+<figures/1,10.jpg, id=200, 1026.08344pt x 493.0922pt>
 File: figures/1,10.jpg Graphic file (type jpg)
 <use figures/1,10.jpg>
 Package pdftex.def Info: figures/1,10.jpg  used on input line 263.
@@ -852,7 +987,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [24]
-<figures/1,11.jpg, id=194, 784.43062pt x 505.13719pt>
+<figures/1,11.jpg, id=207, 784.43062pt x 505.13719pt>
 File: figures/1,11.jpg Graphic file (type jpg)
 <use figures/1,11.jpg>
 Package pdftex.def Info: figures/1,11.jpg  used on input line 297.
@@ -930,7 +1065,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [27]
-<figures/1,12.jpg, id=205, 761.09344pt x 277.78781pt>
+<figures/1,12.jpg, id=217, 761.09344pt x 277.78781pt>
 File: figures/1,12.jpg Graphic file (type jpg)
 <use figures/1,12.jpg>
 Package pdftex.def Info: figures/1,12.jpg  used on input line 369.
@@ -946,7 +1081,7 @@ Overfull \hbox (14.0pt too wide) in paragraph at lines 374--374
  [] \OT1/pcr/m/n/10 $ cp <unzip_destination> / graphics <local_repository> 
  []
 
-<figures/1,13.jpg, id=206, 1026.83624pt x 484.81125pt>
+<figures/1,13.jpg, id=218, 1026.83624pt x 484.81125pt>
 File: figures/1,13.jpg Graphic file (type jpg)
 <use figures/1,13.jpg>
 Package pdftex.def Info: figures/1,13.jpg  used on input line 378.
@@ -1120,7 +1255,7 @@ Overfull \hbox (0.84824pt too wide) in paragraph at lines 446--451
 ner-bi-tan Packt
  []
 
-<figures/1,14.jpg, id=219, 967.36406pt x 417.05812pt>
+<figures/1,14.jpg, id=232, 967.36406pt x 417.05812pt>
 File: figures/1,14.jpg Graphic file (type jpg)
 <use figures/1,14.jpg>
 Package pdftex.def Info: figures/1,14.jpg  used on input line 454.
@@ -1231,7 +1366,7 @@ Overfull \hbox (5.41687pt too wide) in paragraph at lines 523--524
 terse-dia mungkin
  []
 
-<figures/1,15.jpg, id=230, 1028.34187pt x 483.30562pt>
+<figures/1,15.jpg, id=243, 1028.34187pt x 483.30562pt>
 File: figures/1,15.jpg Graphic file (type jpg)
 <use figures/1,15.jpg>
 Package pdftex.def Info: figures/1,15.jpg  used on input line 528.
@@ -1303,7 +1438,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [37]
-<figures/1,16.jpg, id=240, 1027.58907pt x 487.06969pt>
+<figures/1,16.jpg, id=253, 1027.58907pt x 487.06969pt>
 File: figures/1,16.jpg Graphic file (type jpg)
 <use figures/1,16.jpg>
 Package pdftex.def Info: figures/1,16.jpg  used on input line 566.
@@ -1328,12 +1463,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [38 <./figures/1,16.jpg>]
-<figures/1,17.png, id=245, 331.2375pt x 346.29375pt>
+<figures/1,17.png, id=257, 331.2375pt x 346.29375pt>
 File: figures/1,17.png Graphic file (type png)
 <use figures/1,17.png>
 Package pdftex.def Info: figures/1,17.png  used on input line 574.
 (pdftex.def)             Requested size: 132.49265pt x 138.51503pt.
-<figures/1,18.jpg, id=246, 761.09344pt x 361.35pt>
+<figures/1,18.jpg, id=258, 761.09344pt x 361.35pt>
 File: figures/1,18.jpg Graphic file (type jpg)
 <use figures/1,18.jpg>
 Package pdftex.def Info: figures/1,18.jpg  used on input line 582.
@@ -1347,7 +1482,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [39 <./figures/1,17.png> <./figures/1,18.jpg>]
-<figures/1,19.jpg, id=251, 698.61pt x 353.06906pt>
+<figures/1,19.jpg, id=263, 698.61pt x 353.06906pt>
 File: figures/1,19.jpg Graphic file (type jpg)
 <use figures/1,19.jpg>
 Package pdftex.def Info: figures/1,19.jpg  used on input line 590.
@@ -1371,7 +1506,7 @@ s, mem-
 [41
 
 ]
-<figures/2,2.jpg, id=258, 561.59813pt x 410.2828pt>
+<figures/2,2.jpg, id=271, 561.59813pt x 410.2828pt>
 File: figures/2,2.jpg Graphic file (type jpg)
 <use figures/2,2.jpg>
 Package pdftex.def Info: figures/2,2.jpg  used on input line 17.
@@ -1396,7 +1531,7 @@ Overfull \hbox (1.70766pt too wide) in paragraph at lines 28--29
 s, mem-
  []
 
-<figures/2,1.jpg, id=262, 578.91281pt x 407.27156pt>
+<figures/2,1.jpg, id=275, 578.91281pt x 407.27156pt>
 File: figures/2,1.jpg Graphic file (type jpg)
 <use figures/2,1.jpg>
 Package pdftex.def Info: figures/2,1.jpg  used on input line 38.
@@ -1436,7 +1571,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [44]
-<figures/2,3.jpg, id=270, 467.49657pt x 357.58594pt>
+<figures/2,3.jpg, id=282, 467.49657pt x 357.58594pt>
 File: figures/2,3.jpg Graphic file (type jpg)
 <use figures/2,3.jpg>
 Package pdftex.def Info: figures/2,3.jpg  used on input line 60.
@@ -1458,7 +1593,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [46]
-<figures/2,4.jpg, id=277, 747.54282pt x 417.05812pt>
+<figures/2,4.jpg, id=290, 747.54282pt x 417.05812pt>
 File: figures/2,4.jpg Graphic file (type jpg)
 <use figures/2,4.jpg>
 Package pdftex.def Info: figures/2,4.jpg  used on input line 85.
@@ -1488,7 +1623,7 @@ Overfull \hbox (1.65755pt too wide) in paragraph at lines 100--101
 di-dalam
  []
 
-<figures/2,5.jpg, id=281, 762.59906pt x 418.56375pt>
+<figures/2,5.jpg, id=294, 762.59906pt x 418.56375pt>
 File: figures/2,5.jpg Graphic file (type jpg)
 <use figures/2,5.jpg>
 Package pdftex.def Info: figures/2,5.jpg  used on input line 109.
@@ -1529,7 +1664,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [50]
-<figures/2,6.jpg, id=292, 675.27281pt x 415.5525pt>
+<figures/2,6.jpg, id=304, 675.27281pt x 415.5525pt>
 File: figures/2,6.jpg Graphic file (type jpg)
 <use figures/2,6.jpg>
 Package pdftex.def Info: figures/2,6.jpg  used on input line 135.
@@ -1567,7 +1702,7 @@ Overfull \hbox (1.65755pt too wide) in paragraph at lines 156--157
 di-dalam
  []
 
-<figures/2,7.jpg, id=299, 735.49782pt x 479.54156pt>
+<figures/2,7.jpg, id=312, 735.49782pt x 479.54156pt>
 File: figures/2,7.jpg Graphic file (type jpg)
 <use figures/2,7.jpg>
 Package pdftex.def Info: figures/2,7.jpg  used on input line 165.
@@ -1586,12 +1721,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [53 <./figures/2,7.jpg>]
-<figures/2,7,1.jpg, id=303, 213.04594pt x 121.20282pt>
+<figures/2,7,1.jpg, id=316, 213.04594pt x 121.20282pt>
 File: figures/2,7,1.jpg Graphic file (type jpg)
 <use figures/2,7,1.jpg>
 Package pdftex.def Info: figures/2,7,1.jpg  used on input line 173.
 (pdftex.def)             Requested size: 106.5227pt x 60.60126pt.
-<figures/2,7,2.jpg, id=304, 718.93594pt x 523.20468pt>
+<figures/2,7,2.jpg, id=317, 718.93594pt x 523.20468pt>
 File: figures/2,7,2.jpg Graphic file (type jpg)
 <use figures/2,7,2.jpg>
 Package pdftex.def Info: figures/2,7,2.jpg  used on input line 180.
@@ -1624,7 +1759,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [55]
-<figures/2,8.jpg, id=311, 655.69969pt x 412.54124pt>
+<figures/2,8.jpg, id=324, 655.69969pt x 412.54124pt>
 File: figures/2,8.jpg Graphic file (type jpg)
 <use figures/2,8.jpg>
 Package pdftex.def Info: figures/2,8.jpg  used on input line 203.
@@ -1652,7 +1787,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [57]
-<figures/2,9.jpg, id=319, 660.96938pt x 435.12563pt>
+<figures/2,9.jpg, id=331, 660.96938pt x 435.12563pt>
 File: figures/2,9.jpg Graphic file (type jpg)
 <use figures/2,9.jpg>
 Package pdftex.def Info: figures/2,9.jpg  used on input line 225.
@@ -1666,7 +1801,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [58 <./figures/2,9.jpg>]
-<figures/2,9,1.jpg, id=323, 659.46375pt x 451.6875pt>
+<figures/2,9,1.jpg, id=336, 659.46375pt x 451.6875pt>
 File: figures/2,9,1.jpg Graphic file (type jpg)
 <use figures/2,9,1.jpg>
 Package pdftex.def Info: figures/2,9,1.jpg  used on input line 235.
@@ -1694,7 +1829,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [60]
-<figures/2,10.jpg, id=330, 642.90187pt x 417.05812pt>
+<figures/2,10.jpg, id=343, 642.90187pt x 417.05812pt>
 File: figures/2,10.jpg Graphic file (type jpg)
 <use figures/2,10.jpg>
 Package pdftex.def Info: figures/2,10.jpg  used on input line 258.
@@ -1728,7 +1863,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [62]
-<figures/2,11.jpg, id=338, 636.12656pt x 423.08063pt>
+<figures/2,11.jpg, id=350, 636.12656pt x 423.08063pt>
 File: figures/2,11.jpg Graphic file (type jpg)
 <use figures/2,11.jpg>
 Package pdftex.def Info: figures/2,11.jpg  used on input line 282.
@@ -1762,7 +1897,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [64]
-<figures/2,12.jpg, id=345, 638.385pt x 423.08063pt>
+<figures/2,12.jpg, id=358, 638.385pt x 423.08063pt>
 File: figures/2,12.jpg Graphic file (type jpg)
 <use figures/2,12.jpg>
 Package pdftex.def Info: figures/2,12.jpg  used on input line 306.
@@ -1796,7 +1931,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [66]
-<figures/2,13.jpg, id=352, 640.64343pt x 422.32782pt>
+<figures/2,13.jpg, id=365, 640.64343pt x 422.32782pt>
 File: figures/2,13.jpg Graphic file (type jpg)
 <use figures/2,13.jpg>
 Package pdftex.def Info: figures/2,13.jpg  used on input line 330.
@@ -1830,7 +1965,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [68]
-<figures/2,14.jpg, id=360, 691.08188pt x 441.90094pt>
+<figures/2,14.jpg, id=372, 691.08188pt x 441.90094pt>
 File: figures/2,14.jpg Graphic file (type jpg)
 <use figures/2,14.jpg>
 Package pdftex.def Info: figures/2,14.jpg  used on input line 356.
@@ -1863,13 +1998,712 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [70]
-<figures/2,15.jpg, id=367, 732.48656pt x 441.14813pt>
+<figures/2,15.jpg, id=380, 732.48656pt x 441.14813pt>
 File: figures/2,15.jpg Graphic file (type jpg)
 <use figures/2,15.jpg>
 Package pdftex.def Info: figures/2,15.jpg  used on input line 384.
 (pdftex.def)             Requested size: 366.24237pt x 220.57352pt.
 
 Overfull \hbox (30.24237pt too wide) in paragraph at lines 384--385
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[71 <./figures/2,15.jpg>] (src/cv16.py)
+Overfull \hbox (14.4568pt too wide) in paragraph at lines 397--398
+[]\OT1/ptm/m/n/10 print uku-ran frame lebar dan tinggi meng-gu-nakan CAP PROP F
+RAME
+ []
+
+
+Overfull \hbox (1.65755pt too wide) in paragraph at lines 403--404
+\OT1/ptm/m/n/10 war-nanya men-jadi hi-tam putih, ke-mu-dian pang-gil cvt-Color 
+di-dalam
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[72]
+<figures/2,16.jpg, id=387, 834.86906pt x 418.56375pt>
+File: figures/2,16.jpg Graphic file (type jpg)
+<use figures/2,16.jpg>
+Package pdftex.def Info: figures/2,16.jpg  used on input line 412.
+(pdftex.def)             Requested size: 333.94171pt x 167.42252pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[73 <./figures/2,16.jpg>] (src/cv17.py)
+Overfull \hbox (14.4568pt too wide) in paragraph at lines 425--426
+[]\OT1/ptm/m/n/10 print uku-ran frame lebar dan tinggi meng-gu-nakan CAP PROP F
+RAME
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[74]
+<figures/2,17.jpg, id=394, 581.17125pt x 438.13687pt>
+File: figures/2,17.jpg Graphic file (type jpg)
+<use figures/2,17.jpg>
+Package pdftex.def Info: figures/2,17.jpg  used on input line 442.
+(pdftex.def)             Requested size: 290.58492pt x 219.06789pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[75 <./figures/2,17.jpg>] (src/cv18.py)
+Overfull \hbox (14.4568pt too wide) in paragraph at lines 456--457
+[]\OT1/ptm/m/n/10 print uku-ran frame lebar dan tinggi meng-gu-nakan CAP PROP F
+RAME
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[76]
+<figures/2,18.jpg, id=402, 614.295pt x 435.87843pt>
+File: figures/2,18.jpg Graphic file (type jpg)
+<use figures/2,18.jpg>
+Package pdftex.def Info: figures/2,18.jpg  used on input line 471.
+(pdftex.def)             Requested size: 307.14674pt x 217.93867pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[77 <./figures/2,18.jpg>] (src/cv19.py)
+<figures/2,19.jpg, id=406, 1014.03844pt x 441.90094pt>
+File: figures/2,19.jpg Graphic file (type jpg)
+<use figures/2,19.jpg>
+Package pdftex.def Info: figures/2,19.jpg  used on input line 490.
+(pdftex.def)             Requested size: 507.01797pt x 220.94992pt.
+
+Overfull \hbox (171.01797pt too wide) in paragraph at lines 490--491
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[78 <./figures/2,19.jpg>] (src/cv20.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[79]
+<figures/2,20.jpg, id=413, 706.89093pt x 444.15938pt>
+File: figures/2,20.jpg Graphic file (type jpg)
+<use figures/2,20.jpg>
+Package pdftex.def Info: figures/2,20.jpg  used on input line 516.
+(pdftex.def)             Requested size: 282.75136pt x 177.6606pt.
+<figures/2,20,1.jpg, id=414, 855.195pt x 426.84468pt>
+File: figures/2,20,1.jpg Graphic file (type jpg)
+<use figures/2,20,1.jpg>
+Package pdftex.def Info: figures/2,20,1.jpg  used on input line 523.
+(pdftex.def)             Requested size: 342.07195pt x 170.73485pt.
+
+Overfull \hbox (6.07195pt too wide) in paragraph at lines 523--524
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[80 <./figures/2,20.jpg> <./figures/2,20,1.jpg>]
+<figures/2,20,2.jpg, id=418, 855.195pt x 456.95718pt>
+File: figures/2,20,2.jpg Graphic file (type jpg)
+<use figures/2,20,2.jpg>
+Package pdftex.def Info: figures/2,20,2.jpg  used on input line 531.
+(pdftex.def)             Requested size: 342.07195pt x 182.77963pt.
+
+Overfull \hbox (6.07195pt too wide) in paragraph at lines 531--532
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[81 <./figures/2,20,2.jpg>] (src/cv21.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[82]
+Overfull \hbox (0.74802pt too wide) in paragraph at lines 548--549
+[]\OT1/ptm/m/n/10 maka frame akan menampilkan nomor warna yanga ada pada frame
+ []
+
+<figures/2,21.jpg, id=426, 882.29625pt x 435.87843pt>
+File: figures/2,21.jpg Graphic file (type jpg)
+<use figures/2,21.jpg>
+Package pdftex.def Info: figures/2,21.jpg  used on input line 558.
+(pdftex.def)             Requested size: 352.91225pt x 174.34828pt.
+
+Overfull \hbox (16.91225pt too wide) in paragraph at lines 558--559
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[83 <./figures/2,21.jpg>] (src/cv22.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[84]
+Overfull \hbox (0.74802pt too wide) in paragraph at lines 575--576
+[]\OT1/ptm/m/n/10 maka frame akan menampilkan nomor warna yanga ada pada frame
+ []
+
+<figures/2,22.jpg, id=433, 797.22844pt x 470.50781pt>
+File: figures/2,22.jpg Graphic file (type jpg)
+<use figures/2,22.jpg>
+Package pdftex.def Info: figures/2,22.jpg  used on input line 585.
+(pdftex.def)             Requested size: 398.61325pt x 235.25333pt.
+
+Overfull \hbox (62.61325pt too wide) in paragraph at lines 585--586
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[85 <./figures/2,22.jpg>] (src/cv23.py
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 13.
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+)
+Overfull \hbox (4.3073pt too wide) in paragraph at lines 600--601
+[]\OT1/ptm/m/n/10 pada frame akan mem-buat se-buah titik berwarna merah sesuai 
+lokasi
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[86]
+<figures/2,23.jpg, id=441, 466.74374pt x 445.665pt>
+File: figures/2,23.jpg Graphic file (type jpg)
+<use figures/2,23.jpg>
+Package pdftex.def Info: figures/2,23.jpg  used on input line 614.
+(pdftex.def)             Requested size: 233.37129pt x 222.83195pt.
+<figures/2,23,1.jpg, id=442, 502.87875pt x 441.14813pt>
+File: figures/2,23,1.jpg Graphic file (type jpg)
+<use figures/2,23,1.jpg>
+Package pdftex.def Info: figures/2,23,1.jpg  used on input line 621.
+(pdftex.def)             Requested size: 201.14793pt x 176.45612pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[87 <./figures/2,23.jpg> <./figures/2,23,1.jpg>]
+<figures/2,23,2.jpg, id=446, 444.15938pt x 438.13687pt>
+File: figures/2,23,2.jpg Graphic file (type jpg)
+<use figures/2,23,2.jpg>
+Package pdftex.def Info: figures/2,23,2.jpg  used on input line 629.
+(pdftex.def)             Requested size: 222.07913pt x 219.06789pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[88 <./figures/2,23,2.jpg>] (src/cv24.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[89]
+<figures/2,24.jpg, id=454, 760.34062pt x 442.65375pt>
+File: figures/2,24.jpg Graphic file (type jpg)
+<use figures/2,24.jpg>
+Package pdftex.def Info: figures/2,24.jpg  used on input line 660.
+(pdftex.def)             Requested size: 304.13086pt x 177.05835pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[90 <./figures/2,24.jpg>]
+<figures/2,24,1.jpg, id=458, 733.23938pt x 424.58624pt>
+File: figures/2,24,1.jpg Graphic file (type jpg)
+<use figures/2,24,1.jpg>
+Package pdftex.def Info: figures/2,24,1.jpg  used on input line 668.
+(pdftex.def)             Requested size: 293.29056pt x 169.83148pt.
+<figures/2,24,2.jpg, id=459, 741.52031pt x 447.92343pt>
+File: figures/2,24,2.jpg Graphic file (type jpg)
+<use figures/2,24,2.jpg>
+Package pdftex.def Info: figures/2,24,2.jpg  used on input line 675.
+(pdftex.def)             Requested size: 296.60286pt x 179.1662pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[91 <./figures/2,24,1.jpg> <./figures/2,24,2.jpg>] (src/cv25.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[92]
+<figures/2,25.jpg, id=466, 852.18375pt x 479.54156pt>
+File: figures/2,25.jpg Graphic file (type jpg)
+<use figures/2,25.jpg>
+Package pdftex.def Info: figures/2,25.jpg  used on input line 705.
+(pdftex.def)             Requested size: 340.86745pt x 191.81322pt.
+
+Overfull \hbox (4.86745pt too wide) in paragraph at lines 705--706
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[93 <./figures/2,25.jpg>] (src/cv26.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[94]
+<figures/2,26.jpg, id=474, 807.7678pt x 362.85562pt>
+File: figures/2,26.jpg Graphic file (type jpg)
+<use figures/2,26.jpg>
+Package pdftex.def Info: figures/2,26.jpg  used on input line 722.
+(pdftex.def)             Requested size: 403.8829pt x 181.42737pt.
+
+Overfull \hbox (67.8829pt too wide) in paragraph at lines 722--723
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[95 <./figures/2,26.jpg>] (src/cv27.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[96]
+<figures/2,27.jpg, id=481, 709.90219pt x 301.8778pt>
+File: figures/2,27.jpg Graphic file (type jpg)
+<use figures/2,27.jpg>
+Package pdftex.def Info: figures/2,27.jpg  used on input line 739.
+(pdftex.def)             Requested size: 354.95023pt x 150.93852pt.
+
+Overfull \hbox (18.95023pt too wide) in paragraph at lines 739--740
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[97 <./figures/2,27.jpg>] (src/cv28.py)
+<figures/2,28.jpg, id=485, 676.77844pt x 434.37282pt>
+File: figures/2,28.jpg Graphic file (type jpg)
+<use figures/2,28.jpg>
+Package pdftex.def Info: figures/2,28.jpg  used on input line 755.
+(pdftex.def)             Requested size: 338.3884pt x 217.18587pt.
+
+Overfull \hbox (2.3884pt too wide) in paragraph at lines 755--756
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[98] (src/cv29.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [99 <./figures/2,28.jpg>])
+<figures/2,29.jpg, id=492, 696.35156pt x 425.33907pt>
+File: figures/2,29.jpg Graphic file (type jpg)
+<use figures/2,29.jpg>
+Package pdftex.def Info: figures/2,29.jpg  used on input line 771.
+(pdftex.def)             Requested size: 348.17493pt x 212.669pt.
+
+Overfull \hbox (12.17493pt too wide) in paragraph at lines 771--772
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[100 <./figures/2,29.jpg>] (src/cv30.py)
+<figures/2,30.jpg, id=497, 752.8125pt x 406.51875pt>
+File: figures/2,30.jpg Graphic file (type jpg)
+<use figures/2,30.jpg>
+Package pdftex.def Info: figures/2,30.jpg  used on input line 787.
+(pdftex.def)             Requested size: 376.40532pt x 203.25887pt.
+
+Overfull \hbox (40.40532pt too wide) in paragraph at lines 787--788
+ [][] 
+ []
+
+<figures/2,30,1.jpg, id=498, 786.68906pt x 491.58656pt>
+File: figures/2,30,1.jpg Graphic file (type jpg)
+<use figures/2,30,1.jpg>
+Package pdftex.def Info: figures/2,30,1.jpg  used on input line 794.
+(pdftex.def)             Requested size: 393.34357pt x 245.79268pt.
+
+Overfull \hbox (57.34357pt too wide) in paragraph at lines 794--795
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[101] (src/cv31.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [102 <./figures/2,30.jpg>])
+<figures/2,31.jpg, id=505, 842.39719pt x 447.92343pt>
+File: figures/2,31.jpg Graphic file (type jpg)
+<use figures/2,31.jpg>
+Package pdftex.def Info: figures/2,31.jpg  used on input line 810.
+(pdftex.def)             Requested size: 421.19756pt x 223.96117pt.
+
+Overfull \hbox (85.19756pt too wide) in paragraph at lines 810--811
+ [][] 
+ []
+
+<figures/2,31,1.jpg, id=506, 834.86906pt x 461.47406pt>
+File: figures/2,31,1.jpg Graphic file (type jpg)
+<use figures/2,31,1.jpg>
+Package pdftex.def Info: figures/2,31,1.jpg  used on input line 817.
+(pdftex.def)             Requested size: 417.43352pt x 230.73645pt.
+
+Overfull \hbox (81.43352pt too wide) in paragraph at lines 817--818
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[103 <./figures/2,30,1.jpg>] (src/cv32.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [104 <./figures/2,31.jpg>])
+<figures/2,32.jpg, id=513, 859.71187pt x 484.81125pt>
+File: figures/2,32.jpg Graphic file (type jpg)
+<use figures/2,32.jpg>
+Package pdftex.def Info: figures/2,32.jpg  used on input line 833.
+(pdftex.def)             Requested size: 429.85487pt x 242.40503pt.
+
+Overfull \hbox (93.85487pt too wide) in paragraph at lines 833--834
+ [][] 
+ []
+
+<figures/2,32,1.jpg, id=514, 834.86906pt x 497.60907pt>
+File: figures/2,32,1.jpg Graphic file (type jpg)
+<use figures/2,32,1.jpg>
+Package pdftex.def Info: figures/2,32,1.jpg  used on input line 840.
+(pdftex.def)             Requested size: 417.43352pt x 248.80392pt.
+
+Overfull \hbox (81.43352pt too wide) in paragraph at lines 840--841
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[105 <./figures/2,31,1.jpg>] (src/cv33.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [106 <./figures/2,32.jpg>])
+<figures/2,33.jpg, id=522, 710.655pt x 490.08093pt>
+File: figures/2,33.jpg Graphic file (type jpg)
+<use figures/2,33.jpg>
+Package pdftex.def Info: figures/2,33.jpg  used on input line 856.
+(pdftex.def)             Requested size: 355.32663pt x 245.03987pt.
+
+Overfull \hbox (19.32663pt too wide) in paragraph at lines 856--857
+ [][] 
+ []
+
+<figures/2,33,1.jpg, id=523, 742.27313pt x 488.57532pt>
+File: figures/2,33,1.jpg Graphic file (type jpg)
+<use figures/2,33,1.jpg>
+Package pdftex.def Info: figures/2,33,1.jpg  used on input line 863.
+(pdftex.def)             Requested size: 371.13567pt x 244.28706pt.
+
+Overfull \hbox (35.13567pt too wide) in paragraph at lines 863--864
+ [][] 
+ []
+
+<figures/2,33,2.jpg, id=524, 730.22812pt x 489.32813pt>
+File: figures/2,33,2.jpg Graphic file (type jpg)
+<use figures/2,33,2.jpg>
+Package pdftex.def Info: figures/2,33,2.jpg  used on input line 870.
+(pdftex.def)             Requested size: 365.11316pt x 244.66345pt.
+
+Overfull \hbox (29.11316pt too wide) in paragraph at lines 870--871
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[107 <./figures/2,32,1.jpg>] (src/cv34.py)
+<figures/2,34.jpg, id=528, 845.40843pt x 426.09187pt>
+File: figures/2,34.jpg Graphic file (type jpg)
+<use figures/2,34.jpg>
+Package pdftex.def Info: figures/2,34.jpg  used on input line 886.
+(pdftex.def)             Requested size: 422.70317pt x 213.04541pt.
+
+Overfull \hbox (86.70317pt too wide) in paragraph at lines 886--887
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[108 <./figures/2,33.jpg>] (src/cv35.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [109 <./figures/2,33,1.jpg>])
+<figures/2,35.jpg, id=535, 1027.58907pt x 520.19344pt>
+File: figures/2,35.jpg Graphic file (type jpg)
+<use figures/2,35.jpg>
+Package pdftex.def Info: figures/2,35.jpg  used on input line 902.
+(pdftex.def)             Requested size: 513.79327pt x 260.09607pt.
+
+Overfull \hbox (177.79327pt too wide) in paragraph at lines 902--903
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[110 <./figures/2,33,2.jpg>] (src/cv36.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [111 <./figures/2,34.jpg>]
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [112 <./figures/2,35.jpg>])
+<figures/2,36.jpg, id=546, 1028.34187pt x 550.30594pt>
+File: figures/2,36.jpg Graphic file (type jpg)
+<use figures/2,36.jpg>
+Package pdftex.def Info: figures/2,36.jpg  used on input line 918.
+(pdftex.def)             Requested size: 514.16968pt x 275.1523pt.
+
+Overfull \hbox (178.16968pt too wide) in paragraph at lines 918--919
+ [][] 
+ []
+
+<figures/2,36,1.jpg, id=547, 1028.34187pt x 546.54187pt>
+File: figures/2,36,1.jpg Graphic file (type jpg)
+<use figures/2,36,1.jpg>
+Package pdftex.def Info: figures/2,36,1.jpg  used on input line 925.
+(pdftex.def)             Requested size: 514.16968pt x 273.27026pt.
+
+Overfull \hbox (178.16968pt too wide) in paragraph at lines 925--926
+ [][] 
+ []
+
+<figures/2,36,2.jpg, id=548, 1028.34187pt x 548.80031pt>
+File: figures/2,36,2.jpg Graphic file (type jpg)
+<use figures/2,36,2.jpg>
+Package pdftex.def Info: figures/2,36,2.jpg  used on input line 932.
+(pdftex.def)             Requested size: 514.16968pt x 274.39948pt.
+
+Overfull \hbox (178.16968pt too wide) in paragraph at lines 932--933
+ [][] 
+ []
+
+<figures/2,36,3.jpg, id=549, 1028.34187pt x 541.27219pt>
+File: figures/2,36,3.jpg Graphic file (type jpg)
+<use figures/2,36,3.jpg>
+Package pdftex.def Info: figures/2,36,3.jpg  used on input line 939.
+(pdftex.def)             Requested size: 514.16968pt x 270.63542pt.
+
+Overfull \hbox (178.16968pt too wide) in paragraph at lines 939--940
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[113 <./figures/2,36.jpg>] (src/cv37.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [114 <./figures/2,36,1.jpg>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [115 <./figures/2,36,2.jpg>])
+<figures/2,37.jpg, id=559, 1028.34187pt x 544.28343pt>
+File: figures/2,37.jpg Graphic file (type jpg)
+<use figures/2,37.jpg>
+Package pdftex.def Info: figures/2,37.jpg  used on input line 955.
+(pdftex.def)             Requested size: 514.16968pt x 272.14105pt.
+
+Overfull \hbox (178.16968pt too wide) in paragraph at lines 955--956
  [][] 
  []
 
@@ -1883,7 +2717,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[71 <./figures/2,15.jpg>] [72
+[116 <./figures/2,36,3.jpg>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[117 <./figures/2,37.jpg>] [118
 
 ]
 No file main.ind.
@@ -1908,27 +2750,28 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 402 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4019 strings out of 492946
- 55940 string characters out of 3136410
- 426595 words of memory out of 3000000
- 7703 multiletter control sequences out of 15000+200000
+ 4344 strings out of 492946
+ 62148 string characters out of 3136410
+ 425595 words of memory out of 3000000
+ 7923 multiletter control sequences out of 15000+200000
  65903 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,47p,1610b,1645s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,47p,1610b,1804s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/najib/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/User
 s/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/najib/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/najib/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy8.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users
-/najib/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/najib/MiKTeX 2.
-9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/ur
-w/times/utmb8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-<C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (101 pages, 3317398 bytes).
+public/amsfonts/cm/cmmi8.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Users/najib/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/najib/MiKT
+eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvr8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utm
+b8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/n
+ajib/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (151 pages, 6160091 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
+ 617 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 
