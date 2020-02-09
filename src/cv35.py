@@ -3,11 +3,13 @@ import cv2
 import numpy as np
 
 def nothing(x):
+
     pass
 
 #cv2.namedWindow("Tracking")
 
 while True:
+
     frame = cv2.imread('PARKIR.png')
 
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
@@ -29,6 +31,7 @@ while True:
     key = cv2.waitKey(1)
 
     if key == 27:
+	
         break
 
 cv2.destroyAllWindows()
